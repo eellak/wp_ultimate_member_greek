@@ -1,0 +1,3449 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Member\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-29 22:34+0200\n"
+"PO-Revision-Date: 2015-07-30 01:33+0300\n"
+"Last-Translator: Calum Allison <umplugin@gmail.com>\n"
+"Language-Team: Ultimate Member <umplugin@gmail.com>\n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: admin/core/lib/ReduxFramework\n"
+
+#: addons/multi_language.php:107
+msgid "To make a form appear in a specific language, enter the locale then select a form to assign to. Clear the locale and save changes to delete an assigned translation."
+msgstr "Για να δημιουργήσετε σε μια συγκεκριμένη γλώσσα, εισάγετε το locale, στη συνέχεια, επιλέξτε μια φόρμα να αναθέσει. Καταργήστε την επιλογή της τοπικής ρύθμισης και αποθηκεύστε τις αλλαγές για να διαγράψετε τη μετάφραση που αποδίδεται."
+
+#: addons/multi_language.php:110
+msgid "Register Forms"
+msgstr "Φόρμες Εγγραφής"
+
+#: addons/multi_language.php:111
+msgid "Login Forms"
+msgstr "Φόρμες Εισόδου"
+
+#: addons/multi_language.php:112
+msgid "Profile Forms"
+msgstr "Φόρμες Προφίλ"
+
+#: addons/multi_language.php:152
+msgid "Save Changes"
+msgstr "Αποθήκευσε τις Αλλαγές"
+
+#: admin/core/um-admin-access.php:100
+msgid "Access Control"
+msgstr "Έλεγχος πρόσβασης"
+
+#: admin/core/um-admin-actions-ajax.php:11
+#: admin/core/um-admin-actions-fields.php:11
+#: admin/core/um-admin-actions-modal.php:98
+msgid "Please login as administrator"
+msgstr "Παρακαλούμε συνδεθείτε ως διαχειριστής"
+
+#: admin/core/um-admin-actions-modal.php:23
+msgid "Manage conditional fields support"
+msgstr "Διαχειριστείτε τα πεδία βάσει όρων"
+
+#: admin/core/um-admin-actions-modal.php:25
+msgid "Add conditional fields support"
+msgstr "Προσθήκη πεδίων υπό όρους"
+
+#: admin/core/um-admin-actions-modal.php:30
+msgid "Reset all rules"
+msgstr "Επαναφορά όλων των κανόνων"
+
+#: admin/core/um-admin-actions-modal.php:123
+msgid "Search Icons..."
+msgstr "Αναζήτηση εικόνων ..."
+
+#: admin/core/um-admin-actions-modal.php:144
+msgid "Setup New Field"
+msgstr "Προσθήκη νέου πεδίου"
+
+#: admin/core/um-admin-actions-modal.php:160
+msgid "Predefined Fields"
+msgstr "Προκαθορισμένα πεδία"
+
+#: admin/core/um-admin-actions-modal.php:172
+msgid "None"
+msgstr "Κανένα"
+
+#: admin/core/um-admin-actions-modal.php:176
+msgid "Custom Fields"
+msgstr "Προσαρμοσμένα πεδία"
+
+#: admin/core/um-admin-actions-modal.php:187
+msgid "You did not create any custom fields"
+msgstr "Δεν έχετε δημιουργήσει προσαρμοσμένα πεδία"
+
+#: admin/core/um-admin-actions-modal.php:221
+#: admin/core/um-admin-actions-modal.php:291
+msgid "This field type is not setup correcty."
+msgstr "Αυτός ο τύπος πεδίου δεν έχει εγκατασταθεί σωστά."
+
+#: admin/core/um-admin-actions.php:104
+#, php-format
+msgid "Duplicate of %s"
+msgstr "Διπλότυπο του %"
+
+#: admin/core/um-admin-builder.php:92 admin/core/um-admin-builder.php:158
+#: admin/core/um-admin-dragdrop.php:140
+msgid "Add Row"
+msgstr "Προσθήκη Σειράς"
+
+#: admin/core/um-admin-builder.php:93 admin/core/um-admin-builder.php:159
+#: admin/core/um-admin-dragdrop.php:141
+msgid "Edit Row"
+msgstr "Επεξεργασία Σειράς"
+
+#: admin/core/um-admin-builder.php:162 admin/core/um-admin-dragdrop.php:143
+#: admin/core/um-admin-dragdrop.php:157 admin/core/um-admin-dragdrop.php:182
+msgid "Delete Row"
+msgstr "Διαγραφή γραμμής"
+
+#: admin/core/um-admin-columns.php:25
+msgid "Duplicate"
+msgstr "Διπλότυπο"
+
+#: admin/core/um-admin-columns.php:47 admin/core/um-admin-columns.php:65
+msgid "ID"
+msgstr "Αναγνωριστικό"
+
+#: admin/core/um-admin-columns.php:48 admin/core/um-admin-columns.php:66
+msgid "Title"
+msgstr "Τίτλος"
+
+#: admin/core/um-admin-columns.php:49
+msgid "Type"
+msgstr "Τύπος"
+
+#: admin/core/um-admin-columns.php:50 admin/core/um-admin-columns.php:67
+#: admin/core/um-admin-metabox.php:256 admin/core/um-admin-metabox.php:296
+msgid "Shortcode"
+msgstr "Σύντομος Κώδικας"
+
+#: admin/core/um-admin-columns.php:51 admin/core/um-admin-columns.php:68
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: admin/core/um-admin-dashboard.php:74 admin/core/um-admin-redux.php:55
+msgid "Ultimate Member"
+msgstr "Ultimate Member"
+
+#: admin/core/um-admin-dashboard.php:77
+msgid "Dashboard"
+msgstr "Ταμπλό"
+
+#: admin/core/um-admin-dashboard.php:80
+#, php-format
+msgid "%s | Ultimate Member"
+msgstr "% | Ultimate Member"
+
+#: admin/core/um-admin-dashboard.php:90 core/um-taxonomies.php:18
+msgid "Forms"
+msgstr "Φόρμες"
+
+#: admin/core/um-admin-dashboard.php:91 core/um-taxonomies.php:36
+msgid "User Roles"
+msgstr "Ρόλοι Χρηστών"
+
+#: admin/core/um-admin-dashboard.php:94 core/um-taxonomies.php:56
+msgid "Member Directories"
+msgstr "Κατάλογοι Μελών"
+
+#: admin/core/um-admin-dashboard.php:105 core/um-filters-addons.php:26
+msgid "Extensions"
+msgstr "Επεκτάσεις"
+
+#: admin/core/um-admin-dashboard.php:120
+msgid "Users Overview"
+msgstr "Επισκόπηση χρηστών"
+
+#: admin/core/um-admin-dashboard.php:122
+msgid "Latest from our blog"
+msgstr "Τελευταία από το blog μας"
+
+#: admin/core/um-admin-dashboard.php:124
+msgid "Purge Temp Files"
+msgstr "Εκκαθάριση προσωρινών αρχείων"
+
+#: admin/core/um-admin-dashboard.php:127 admin/core/um-admin-dashboard.php:129
+#: admin/core/um-admin-dashboard.php:131
+msgid "Language"
+msgstr "Γλώσσα"
+
+#: admin/core/um-admin-functions.php:28 admin/core/um-admin-functions.php:31
+msgid "Form updated."
+msgstr "Η φόρμα ενημερώθηκε."
+
+#: admin/core/um-admin-functions.php:29 admin/core/um-admin-functions.php:47
+msgid "Custom field updated."
+msgstr "Το προσαρμοσμένο πεδίο ενημερώθηκε."
+
+#: admin/core/um-admin-functions.php:30 admin/core/um-admin-functions.php:48
+msgid "Custom field deleted."
+msgstr "Το προσαρμοσμένο πεδίο διαγράφηκε."
+
+#: admin/core/um-admin-functions.php:32
+msgid "Form restored to revision."
+msgstr "Η Φόρμα είναι για αναθεώρηση."
+
+#: admin/core/um-admin-functions.php:33
+msgid "Form created."
+msgstr "Η Φόρμα δημιουργήθηκε."
+
+#: admin/core/um-admin-functions.php:34
+msgid "Form saved."
+msgstr "Η Φόρμα Αποθηκεύτηκε."
+
+#: admin/core/um-admin-functions.php:35
+msgid "Form submitted."
+msgstr "Η φόρμα υποβλήθηκε."
+
+#: admin/core/um-admin-functions.php:36
+msgid "Form scheduled."
+msgstr "Η Φόρμα ορίστηκε."
+
+#: admin/core/um-admin-functions.php:37
+msgid "Form draft updated."
+msgstr "Το προσχέδιο ενημερώθηκε."
+
+#: admin/core/um-admin-functions.php:46 admin/core/um-admin-functions.php:49
+msgid "Role updated."
+msgstr "Ο ρόλος ενημερώθηκε."
+
+#: admin/core/um-admin-functions.php:50
+msgid "Role restored to revision."
+msgstr "Ο ρόλος επαναφέρθηκε για αναθεώρηση."
+
+#: admin/core/um-admin-functions.php:51
+msgid "Role created."
+msgstr "Ο ρόλος δημιουργήθηκε."
+
+#: admin/core/um-admin-functions.php:52
+msgid "Role saved."
+msgstr "Ο ρόλος αποθηκεύτηκε."
+
+#: admin/core/um-admin-functions.php:53
+msgid "Role submitted."
+msgstr "Ο ρόλος υποβλήθηκε."
+
+#: admin/core/um-admin-functions.php:54
+msgid "Role scheduled."
+msgstr "Ο ρόλος ορίστηκε."
+
+#: admin/core/um-admin-functions.php:55
+msgid "Role draft updated."
+msgstr "Το προσχέδιο του ρόλου ενημερώθηκε."
+
+#: admin/core/um-admin-metabox.php:130 core/um-builtin.php:882
+#: core/um-builtin.php:897 um-config.php:77 um-config.php:87 um-config.php:97
+#: um-config.php:258 um-config.php:268 um-config.php:278 um-config.php:288
+#: um-config.php:320 um-config.php:351 um-config.php:1143
+msgid "Yes"
+msgstr "Ναι"
+
+#: admin/core/um-admin-metabox.php:131 admin/core/um-admin-roles.php:48
+#: core/um-actions-account.php:20 core/um-builtin.php:881
+#: core/um-builtin.php:882 core/um-builtin.php:896 core/um-builtin.php:897
+#: um-config.php:78 um-config.php:88 um-config.php:98 um-config.php:259
+#: um-config.php:269 um-config.php:279 um-config.php:289 um-config.php:321
+#: um-config.php:352 um-config.php:1144
+msgid "No"
+msgstr "Όχι"
+
+#: admin/core/um-admin-metabox.php:251
+msgid "General Options"
+msgstr "Γενικές επιλογές"
+
+#: admin/core/um-admin-metabox.php:252
+msgid "Profile Card"
+msgstr "Κάρτα Προφίλ"
+
+#: admin/core/um-admin-metabox.php:253
+msgid "Search Options"
+msgstr "Επιλογές Αναζήτησης"
+
+#: admin/core/um-admin-metabox.php:254
+msgid "Results &amp; Pagination"
+msgstr "Αποτελέσματα & amp; Σελιδοποίηση"
+
+#: admin/core/um-admin-metabox.php:258
+msgid "Styling: General"
+msgstr "Μορφοποίηση: Γενικά"
+
+#: admin/core/um-admin-metabox.php:260
+msgid "Styling: Profile Card"
+msgstr "Μορφοποίηση: Κάρτα Προφίλ"
+
+#: admin/core/um-admin-metabox.php:269
+msgid "Administrative Permissions"
+msgstr "Δικαιώματα Διαχειριστή"
+
+#: admin/core/um-admin-metabox.php:271
+msgid "General Permissions"
+msgstr "Γενικά Δικαιώματα"
+
+#: admin/core/um-admin-metabox.php:273
+msgid "Profile Access"
+msgstr "Προφίλ Πρόσβασης"
+
+#: admin/core/um-admin-metabox.php:275
+msgid "Homepage Options"
+msgstr "Αρχική σελίδα Επιλογές"
+
+#: admin/core/um-admin-metabox.php:277
+msgid "Registration Options"
+msgstr "Επιλογές εγγραφής"
+
+#: admin/core/um-admin-metabox.php:279
+msgid "Login Options"
+msgstr "Είσοδος Επιλογές"
+
+#: admin/core/um-admin-metabox.php:281
+msgid "Logout Options"
+msgstr "Επιλογές Αποσύνδεση"
+
+#: admin/core/um-admin-metabox.php:283
+msgid "Delete Options"
+msgstr "Διαγραφή Επιλογές"
+
+#: admin/core/um-admin-metabox.php:294
+msgid "Select Form Type"
+msgstr "Επιλέξτε Φόρμα Τύπος"
+
+#: admin/core/um-admin-metabox.php:295
+msgid "Form Builder"
+msgstr "Φόρμα Builder"
+
+#: admin/core/um-admin-metabox.php:298 admin/core/um-admin-metabox.php:303
+#: admin/core/um-admin-metabox.php:309
+msgid "Customize this form"
+msgstr "Προσαρμογή αυτής της φόρμας"
+
+#: admin/core/um-admin-metabox.php:299 admin/core/um-admin-metabox.php:305
+#: admin/core/um-admin-metabox.php:311 admin/templates/form/login_css.php:4
+#: admin/templates/form/profile_css.php:4
+#: admin/templates/form/register_css.php:4 um-config.php:1757
+#: um-config.php:1763
+msgid "Custom CSS"
+msgstr "Προσαρμοσμένη CSS"
+
+#: admin/core/um-admin-metabox.php:304
+msgid "User Meta"
+msgstr "Meta χρήστη"
+
+#: admin/core/um-admin-metabox.php:310
+msgid "Options"
+msgstr "Επιλογές"
+
+#: admin/core/um-admin-metabox.php:472
+msgid "Select where this field should appear. This option should only be changed on the profile form and allows you to show a field in one mode only (edit or view) or in both modes."
+msgstr "Επιλέξτε πού θα πρέπει να εμφανιστεί αυτό το πεδίο. Αυτή η επιλογή θα πρέπει να αλλάξει μόνο με τη φόρμα του προφίλ και σας επιτρέπει να δείτε ένα πεδίο σε μία λειτουργία μόνο (επεξεργασία ή προβολή) ή και στις δύο λειτουργίες."
+
+#: admin/core/um-admin-metabox.php:506
+msgid "If"
+msgstr "Αν"
+
+#: admin/core/um-admin-metabox.php:575
+msgid "Value"
+msgstr "Τιμή"
+
+#: admin/core/um-admin-metabox.php:693
+msgid "Optional text to include with the divider"
+msgstr "Προαιρετικό κείμενο μπορείτε να συμπεριλάβετε με το διαχωριστικό"
+
+#: admin/core/um-admin-metabox.php:884
+msgid "Turn on to force users to create a strong password (A combination of one lowercase letter, one uppercase letter, and one number). If turned on this option is only applied to register forms and not to login forms."
+msgstr "Ενεργοποιήστε το ώστε οι χρήστες να δημιουργήσουν έναν ισχυρό κωδικό πρόσβασης (συνδυασμός πεζών κεφαλαίων και αριθμών). Αν ενεργοποιηθεί αυτή η επιλογή ισχύει μόνο για τις φόρμες εγγραφής και όχι για τις φόρμες σύνδεσης."
+
+#: admin/core/um-admin-metabox.php:894
+msgid "Turn on to add a confirm password field. If turned on the confirm password field will only show on register forms and not on login forms."
+msgstr "Ενεργοποιήστε για να προσθέσετε ένα πεδίο Επιβεβαίωσης κωδικού πρόσβασης. Εάν είναι ενεργοποιημένο το πεδίο επιβεβαίωσης κωδικού πρόσβασης θα εμφανιστεί μόνο στις φόρμες εγγραφής και όχι στις φόρμες εισόδου."
+
+#: admin/core/um-admin-notices.php:48
+#, php-format
+msgid "Registration is disabled. Please go to the <a href=\"%s\">general settings</a> page in the WordPress admin and select anyone can register. <a href=\"%s\">Hide this notice</a>"
+msgstr "Η εγγραφή είναι απενεργοποιημένη. Παρακαλώ πηγαίνετε στις <a %s href=\" \"> γενικές ρυθμίσεις </a> σελίδα διαχειριστή του WordPress και επιλέξτε ο καθένας μπορεί να εγγραφεί. <a href=\" %s \"> Απόκρυψη αυτής της ειδοποίησης </a>"
+
+#: admin/core/um-admin-notices.php:60
+#, php-format
+msgid "Exif is not enabled on your server. Mobile photo uploads will not be rotated correctly until you enable the exif extension. <a href=\"%s\">Hide this notice</a>"
+msgstr "Το Exif δεν είναι ενεργοποιημένο στο διακομιστή σας. Η φωτογραφία από κινητό που θα ανέβει δεν θα περιστραφεί σωστά μέχρι να ενεργοποιηθεί η επέκταση EXIF. <a href=\" %s \"> Απόκρυψη της παρούσας προκήρυξης </a>"
+
+#: admin/core/um-admin-notices.php:86
+#, php-format
+msgid "Your site language is <strong>%1$s</strong>. Good news! Ultimate Member is already available in <strong>%2$s language</strong>. <a href=\"%3$s\">Download the translation</a> files and start using the plugin in your language now."
+msgstr "Η γλώσσα της ιστοσελίδας σας είναι <strong> %1$s </ strong>. καλα νεα! Το Ultimate member είναι ήδη διαθέσιμο στο <strong> %2$s γλώσσα </ strong>. <a href=\" %3$s \"> Κατεβάστε τη μετάφραση </a> και αρχίσετε να χρησιμοποιείτε το plugin στην γλώσσα σας τώρα."
+
+#: admin/core/um-admin-notices.php:97
+#, php-format
+msgid "Ultimate Member has not yet been translated to your langeuage: <strong>%1$s</strong>. If you have translated the plugin you need put these files <code>ultimatemember-%1$s.po and ultimatemember-%1$s.mo</code> in <strong>/wp-content/languages/plugins/</strong> for the plugin to be translated in your language. <a href=\"%2$s\">Hide this notice</a>"
+msgstr "Το Ultimate Memberδεν έχει ακόμη μεταφραστεί σε langeuage σας: <strong> %1$s </ strong>. Αν έχετε μεταφραστεί το plugin θα πρέπει να θέσει αυτά τα αρχεία <code> ultimatemember- %1$s .po και ultimatemember- %1$s .mo </ code> <strong> / wp-content / languages ​​/ plugins / </ strong> για το plugin για να μεταφραστεί στη γλώσσα σας. <a href=\" %2$s \"> Απόκρυψη της παρούσας προκήρυξης </a>"
+
+#: admin/core/um-admin-notices.php:129
+#, php-format
+msgid "Are you sure you want to delete the selected user(s)? The following users will be deleted: <p>%s</p> <strong>This cannot be undone!</strong>"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε τον επιλεγμένο χρήστη (ες); Οι ακόλουθοι χρήστες θα διαγραφούν: <p> %s ! </ p> <strong> Αυτό δεν μπορεί να αναιρεθεί </ strong>"
+
+#: admin/core/um-admin-notices.php:130 core/um-actions-profile.php:201
+msgid "Remove"
+msgstr "Κατάργηση"
+
+#: admin/core/um-admin-notices.php:130
+msgid "Undo"
+msgstr "Αναίρεση"
+
+#: admin/core/um-admin-notices.php:135
+msgid "Your translation files have been updated successfully."
+msgstr "Τα αρχεία μετάφρασης σας έχουν ενημερωθεί με επιτυχία."
+
+#: admin/core/um-admin-notices.php:139
+msgid "Your temp uploads directory is now clean."
+msgstr "Ο προσωρινός κατάλογος που ανεβάζετε αρχεία είναι τώρα άδειος."
+
+#: admin/core/um-admin-notices.php:143
+msgid "The form has been duplicated successfully."
+msgstr "Η φόρμα έχει αντιγραφεί επιτυχώς."
+
+#: admin/core/um-admin-notices.php:147
+msgid "User has been updated."
+msgstr "Ο χρήστης έχει ενημερωθεί."
+
+#: admin/core/um-admin-notices.php:151
+msgid "Users have been updated."
+msgstr "Οι χρήστες έχουν ενημερωθεί."
+
+#: admin/core/um-admin-notices.php:155
+msgid "Super administrators cannot be modified."
+msgstr "Οι σούπερ διαχειριστές δεν μπορούν να τροποποιηθούν."
+
+#: admin/core/um-admin-notices.php:156
+msgid "Other users have been updated."
+msgstr "Οι άλλοι χρήστες έχουν ενημερωθεί."
+
+#: admin/core/um-admin-redux.php:59 admin/core/um-admin-redux.php:60
+#: index.php:51
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: admin/core/um-admin-roles.php:20
+msgid "Role Title"
+msgstr "Τιτλος ρόλου"
+
+#: admin/core/um-admin-roles.php:21
+msgid "No. of Members"
+msgstr "Αριθμός Μελών"
+
+#: admin/core/um-admin-roles.php:21
+msgid "The total number of members who have this role on your site"
+msgstr "Ο συνολικός αριθμός των μελών που έχουν αυτόν τον ρόλο στο site σας"
+
+#: admin/core/um-admin-roles.php:22
+msgid "Core / Built-in"
+msgstr "Core / Built-in"
+
+#: admin/core/um-admin-roles.php:22
+msgid "A core role is installed by default and may not be removed"
+msgstr "Ένας κεντρικός ρόλος έχει εγκατασταθεί από προεπιλογή και δεν μπορεί να αφαιρεθεί"
+
+#: admin/core/um-admin-roles.php:23
+msgid "WP-Admin Access"
+msgstr "WP-Admin Πρόσβαση"
+
+#: admin/core/um-admin-roles.php:23
+msgid "Let you know If users of this role can view the WordPress backend or not"
+msgstr "Να γνωρίζετε εάν οι χρήστες αυτού του ρόλου μπορούν να δουν το WordPress backend ή όχι"
+
+#: admin/core/um-admin-roles.php:46
+msgid "This role can access the WordPress backend"
+msgstr "Ο ρόλος αυτός μπορεί να έχει πρόσβαση το WordPress backend"
+
+#: admin/core/um-admin-roles.php:64
+msgid "Core"
+msgstr "Πυρήνας"
+
+#: admin/core/um-admin-users.php:38
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: admin/core/um-admin-users.php:39
+msgid "Edit in frontend"
+msgstr "Επεξεργασία στο frontend"
+
+#: admin/core/um-admin-users.php:42
+msgid "Info"
+msgstr "Πληροφορίες"
+
+#: admin/core/um-admin-users.php:129 admin/templates/dashboard/users.php:12
+msgid "Approved"
+msgstr "Εγκρίθηκε"
+
+#: admin/core/um-admin-users.php:130
+msgid "Pending review"
+msgstr "Εν αναμονή της επανεξέτασης"
+
+#: admin/core/um-admin-users.php:131
+msgid "Waiting e-mail confirmation"
+msgstr "Αναμονή επιβεβαίωση e-mail"
+
+#: admin/core/um-admin-users.php:132 admin/templates/dashboard/users.php:40
+msgid "Inactive"
+msgstr "Αδρανής"
+
+#: admin/core/um-admin-users.php:133 admin/templates/dashboard/users.php:17
+msgid "Rejected"
+msgstr "Απορρίφθηκε"
+
+#: admin/core/um-admin-users.php:163 admin/core/um-admin-users.php:199
+msgid "You do not have enough permissions to do that."
+msgstr "Δεν έχετε επαρκή δικαιώματα για να κάνετε αυτό."
+
+#: admin/core/um-admin-users.php:267 admin/core/um-admin-users.php:269
+msgid "Filter by"
+msgstr "Φίλτρο ανά"
+
+#: admin/core/um-admin-users.php:277
+msgid "Filter"
+msgstr "Φίλτρο"
+
+#: admin/core/um-admin-users.php:283 admin/core/um-admin-users.php:285
+msgid "Take Action"
+msgstr "Ανάλαβε Δράση"
+
+#: admin/core/um-admin-users.php:289 core/um-fields.php:1279
+msgid "Apply"
+msgstr "Εφαρμογή"
+
+#: admin/core/um-admin-users.php:295
+msgid "Community role&hellip;"
+msgstr "Ρόλο της Κοινότητας &hellip;"
+
+#: admin/core/um-admin-users.php:302
+msgid "Change"
+msgstr "Αλλαγή"
+
+#: admin/core/um-admin-users.php:317
+msgid "Community Role"
+msgstr "Ο ρόλος της Κοινότητας"
+
+#: admin/core/um-admin-users.php:317
+msgid "This is the membership role set by Ultimate Member plugin"
+msgstr "Αυτός είναι ο ρόλος των μελών καθορίζεται από το Ultimate Member plugin"
+
+#: admin/templates/access/settings.php:1
+msgid "Apply custom access settings?"
+msgstr "Εφαρμογή των τροποποιημένων ρυθμίσεων πρόσβασης;"
+
+#: admin/templates/access/settings.php:1
+msgid "Switch to yes to override global access settings"
+msgstr "Ορίστε ναι για να παρακάμψετε τις ρυθμίσεις πρόσβασης παντού"
+
+#: admin/templates/access/settings.php:10
+msgid "Content Availability"
+msgstr "Περιεχόμενο Διαθεσιμότητα"
+
+#: admin/templates/access/settings.php:10
+msgid "Who can access this content?"
+msgstr "Ποιος μπορεί να έχει πρόσβαση σε αυτό το περιεχόμενο;"
+
+#: admin/templates/access/settings.php:16
+msgid "Content accessible to Everyone"
+msgstr "Το περιεχόμενο είναι προσβάσιμο σε όλους"
+
+#: admin/templates/access/settings.php:17
+msgid "Content accessible to Logged Out Users"
+msgstr "Προσβάσιμου περιεχομένου σε μη συνδεδεμένους χρήστες"
+
+#: admin/templates/access/settings.php:18
+msgid "Content accessible to Logged In Users"
+msgstr "Πρόσβαση περιεχομένου σε συνδεδεμένους χρήστες"
+
+#: admin/templates/access/settings.php:24
+#: admin/templates/access/settings.php:50
+msgid "Redirect URL"
+msgstr "Redirect URL"
+
+#: admin/templates/access/settings.php:24
+#: admin/templates/access/settings.php:50
+msgid "This is the URL that user is redirected to If he is not permitted to view this content"
+msgstr "Αυτό είναι το URL που ο χρήστης ανακατευθύνεται σε περίπτωση που δεν του επιτρέπεται να δείτε το περιεχόμενο"
+
+#: admin/templates/access/settings.php:38
+msgid "Select the member roles that can see this content?"
+msgstr "Επιλέξτε τους ρόλους των μελών που μπορούν να δεί αυτό το περιεχόμενο;"
+
+#: admin/templates/access/settings.php:38
+msgid "If you do not select any role, all members will be able to view this content"
+msgstr "Αν δεν επιλέξετε κανένα ρόλο, όλα τα μέλη θα είναι σε θέση να δουν το περιεχόμενο"
+
+#: admin/templates/dashboard/language-contrib.php:1
+#, php-format
+msgid "Ultimate Member is not yet available in your language: <strong>%1$s</strong>."
+msgstr "Το Ultimate Member δεν είναι ακόμα διαθέσιμο στη γλώσσα σας: <strong> %1$s </ strong>."
+
+#: admin/templates/dashboard/language-contrib.php:3
+msgid "If you want to contribute this translation to the plugin, please add it on our <a href=\"https://ultimatemember.com/forums/\">community forum</a>."
+msgstr "Αν θέλετε να συμβάλετε στην παρούσα μετάφραση του plugin, παρακαλούμε να μπείτε στο <a href=\"https://ultimatemember.com/forums/\">forum της κοινότητάς μας</a>."
+
+#: admin/templates/dashboard/language-download.php:1
+#, php-format
+msgid "Ultimate Member is available in your language: <strong>%1$s (%2$s)</strong>."
+msgstr "Το Ultimate Member είναι διαθέσιμο στη γλώσσα σας: <strong> %1$s ( %2$s ) </ strong>."
+
+#: admin/templates/dashboard/language-download.php:3
+msgid "Download Translation"
+msgstr "Λήψη Μετάφρασης"
+
+#: admin/templates/dashboard/language-update.php:1
+#, php-format
+msgid "You are currently using Ultimate Member in your language: <strong>%1$s (%2$s)</strong>."
+msgstr "Αυτήν τη στιγμή χρησιμοποιείτε το Ultimate Member στη γλώσσα σας: <strong> %1$s ( %2$s ) </ strong>."
+
+#: admin/templates/dashboard/language-update.php:3
+msgid "Force Update Translation"
+msgstr "Άμεση Ενημέρωση Μετάφρασης"
+
+#: admin/templates/dashboard/users.php:7 um-config.php:13
+msgid "Users"
+msgstr "Χρήστες"
+
+#: admin/templates/dashboard/users.php:30
+msgid "Pending Review"
+msgstr "Εν αναμονή έγκρισης"
+
+#: admin/templates/dashboard/users.php:35
+msgid "Awaiting E-mail Confirmation"
+msgstr "Εν αναμονή E-mail επιβεβαίωσης"
+
+#: admin/templates/directory/appearance.php:3
+#: admin/templates/form/login_customize.php:14
+#: admin/templates/form/profile_customize.php:26
+#: admin/templates/form/register_customize.php:26
+msgid "Template"
+msgstr "Πρότυπο"
+
+#: admin/templates/directory/general.php:19
+msgid "User Roles to Display"
+msgstr "Ρόλοι χρήστών για απεικόνιση"
+
+#: admin/templates/directory/general.php:32
+msgid "Only show members who have uploaded a profile photo"
+msgstr "Να φαίνονται μόνο τα μέλη που έχουν ανεβάσει φωτογραφία προφίλ"
+
+#: admin/templates/directory/general.php:41
+msgid "Only show members who have uploaded a cover photo"
+msgstr "Να φαίνονται μόνο τα μέλη που έχουν ανεβάσει φωτογραφία εξωφύλλου"
+
+#: admin/templates/directory/general.php:50
+msgid "Sort users by"
+msgstr "Ταξινόμηση κατά χρήστες"
+
+#: admin/templates/directory/general.php:68
+msgid "Meta key"
+msgstr "Πλήκτρο Meta"
+
+#: admin/templates/directory/pagination.php:6
+msgid "Number of profiles per page"
+msgstr "Αριθμός προφίλ ανά σελίδα"
+
+#: admin/templates/directory/pagination.php:6
+msgid "Number of profiles to appear on page for standard users"
+msgstr "Αριθμός προφίλ που θα εμφανίζεται στη σελίδα για τυπικούς χρήστες"
+
+#: admin/templates/directory/pagination.php:15
+msgid "Number of profiles per page (for Mobiles & Tablets)"
+msgstr "Αριθμός προφίλ ανά σελίδα (για Κινητά & Tablets)"
+
+#: admin/templates/directory/pagination.php:15
+msgid "Number of profiles to appear on page for mobile users"
+msgstr "Αριθμός προφίλ που θα εμφανίζεται στη σελίδα για τους χρήστες κινητών"
+
+#: admin/templates/directory/pagination.php:24
+msgid "Maximum number of profiles"
+msgstr "Μέγιστος αριθμός προφίλ"
+
+#: admin/templates/directory/pagination.php:24
+msgid "Use this setting to control the maximum number of profiles to appear in this directory. Leave blank to disable this limit"
+msgstr "Χρησιμοποιήστε αυτή τη ρύθμιση για να ελέγξετε το μέγιστο αριθμό των προφίλ που θα εμφανίζονται σε αυτόν τον κατάλογο. Επιτρέψτε σε το κενό για να απενεργοποιήσετε αυτό το όριο"
+
+#: admin/templates/directory/profile.php:6
+msgid "Enable Profile Photo"
+msgstr "Ενεργοποίηση Φωτογραφίας Προφίλ"
+
+#: admin/templates/directory/profile.php:15
+msgid "Enable Cover Photo"
+msgstr "Ενεργοποίηση φωτογραφίας εξωφύλλου"
+
+#: admin/templates/directory/profile.php:24
+msgid "Show display name"
+msgstr "Εμφανιζόμενο όνομα"
+
+#: admin/templates/directory/profile.php:33
+msgid "Show tagline below profile name"
+msgstr "Εμφάνιση σλόγκαν κάτω από το όνομα του προφίλ"
+
+#: admin/templates/directory/profile.php:42
+msgid "Choose field(s) to display in tagline"
+msgstr "Επιλέξτε πεδίο (α) για να εμφανιστεί σε tagline"
+
+#: admin/templates/directory/profile.php:90
+msgid "Show extra user information below tagline?"
+msgstr "Να εμφανίζονται επιπλέον πληροφορίες του χρήστη κάτω από το σύνθημα;"
+
+#: admin/templates/directory/profile.php:99
+msgid "Enable reveal section transition by default"
+msgstr "Ενεργοποίηση εμάνισης τμήματος μετάβασης από προεπιλογή"
+
+#: admin/templates/directory/profile.php:108
+msgid "Choose field(s) to display in reveal section"
+msgstr "Επιλέξτε πεδίο (α) για να εμφανιστεί στην ενότητα"
+
+#: admin/templates/directory/profile.php:156
+msgid "Show social connect icons"
+msgstr "Εμφάνιση εικόνων από τα κοινωνικά δίκτυα που έχετε συνδεθεί"
+
+#: admin/templates/directory/profile_card.php:3
+msgid "Profile card background"
+msgstr "Φόντο κάρτας προφίλ"
+
+#: admin/templates/directory/profile_card.php:7
+msgid "Profile card text"
+msgstr "Κείμενο κάρτας προφίλ"
+
+#: admin/templates/directory/profile_card.php:11
+msgid "Profile card border color"
+msgstr "Χρώμα γραμμής πλαισίου κάρτας προφίλ"
+
+#: admin/templates/directory/profile_card.php:15
+msgid "Profile photo border color"
+msgstr "Χρώμα γραμμής πλαισίου φωτογραφίας προφίλ"
+
+#: admin/templates/directory/profile_card.php:19
+msgid "Profile card border thickness"
+msgstr "Πάχος γραμμής πλαισίου κάρτας προφίλ"
+
+#: admin/templates/directory/search.php:6
+msgid "Enable Search feature"
+msgstr "Ενεργοποίηση αναζήτησης"
+
+#: admin/templates/directory/search.php:15
+msgid "User Roles that can use search"
+msgstr "Ρόλοι Χρηστών που μπορούν να χρησιμοποιήσουν την αναζήτηση"
+
+#: admin/templates/directory/search.php:28
+msgid "Choose field(s) to enable in search"
+msgstr "Επιλέξτε πεδίο (α) για να είναι διαθέσιμα στην αναζήτηση"
+
+#: admin/templates/directory/search.php:80
+msgid "Results Text"
+msgstr "Αποτελέσματα κειμένου"
+
+#: admin/templates/directory/search.php:80
+msgid "Customize the search result text . e.g. Found 3,000 Members. Leave this blank to not show result text"
+msgstr "Προσαρμογή του κειμένου αποτέλεσμα αναζήτησης. π.χ. Βρέθηκαν 3.000 μέλη. Επιτρέψτε σε αυτό το κενό να μην δείξει τα αποτελέσματα του κειμένου"
+
+#: admin/templates/directory/search.php:83 core/um-setup.php:49
+#: core/um-setup.php:162
+msgid "{total_users} Members"
+msgstr "{total_users} Μέλη"
+
+#: admin/templates/directory/search.php:89
+msgid "Single Result Text"
+msgstr "Ενιαίο Κείμενο Αποτελέσματος"
+
+#: admin/templates/directory/search.php:89
+msgid "Same as above but in case of 1 user found only"
+msgstr "Όπως και παραπάνω, αλλά στην περίπτωση που βρεθεί ένας μόνο χρήστης"
+
+#: admin/templates/directory/search.php:92 core/um-setup.php:50
+#: core/um-setup.php:163
+msgid "{total_users} Member"
+msgstr "{total_users} μέλη"
+
+#: admin/templates/directory/search.php:98
+msgid "Custom text if no users were found"
+msgstr "Προσαρμοσμένο κείμενο αν δεν βρεθούν χρήστες"
+
+#: admin/templates/directory/search.php:101 core/um-setup.php:51
+msgid "We are sorry. We cannot find any users who match your search criteria."
+msgstr "Λυπούμαστε. Δεν μπορούμε να βρούμε τους χρήστες που ταιριάζουν με τα κριτήρια αναζήτησής σας."
+
+#: admin/templates/form/builder.php:14
+msgid "Live Preview"
+msgstr "Ζωντανή προεπισκόπιση "
+
+#: admin/templates/form/builder.php:28
+msgid "Add Master Row"
+msgstr "Προσθήκη master σειράς"
+
+#: admin/templates/form/login_css.php:4 admin/templates/form/profile_css.php:4
+#: admin/templates/form/register_css.php:4
+msgid "Enter custom css that will be applied to this form only"
+msgstr "Πληκτρολογήστε την τοποποιημένη CSS που θα εφαρμόζεται σε αυτή τη φόρμα μόνο"
+
+#: admin/templates/form/login_customize.php:4
+#: admin/templates/form/profile_customize.php:4
+#: admin/templates/form/register_customize.php:4
+msgid "Use global settings?"
+msgstr "Να γίνει χρήση των καθολικών ρυθμίσεων;"
+
+#: admin/templates/form/login_customize.php:26
+#: admin/templates/form/profile_customize.php:38
+#: admin/templates/form/register_customize.php:38
+msgid "Max. Width (px)"
+msgstr "Μέγιστο λάτος (px)"
+
+#: admin/templates/form/login_customize.php:30
+#: admin/templates/form/profile_customize.php:46
+#: admin/templates/form/register_customize.php:42
+msgid "Alignment"
+msgstr "Ευθυγράμμιση"
+
+#: admin/templates/form/login_customize.php:40
+#: admin/templates/form/profile_customize.php:56
+#: admin/templates/form/register_customize.php:52
+msgid "Field Icons"
+msgstr "Εικονίδια πεδίου"
+
+#: admin/templates/form/login_customize.php:50
+#: admin/templates/form/profile_customize.php:66
+#: admin/templates/form/register_customize.php:62
+msgid "Primary Button Text"
+msgstr "Κείμενο κεντρικού κουμπιού"
+
+#: admin/templates/form/login_customize.php:54
+#: admin/templates/form/profile_customize.php:70
+#: admin/templates/form/register_customize.php:66
+msgid "Primary Button Color"
+msgstr "Χρώμα κεντρικού κουμπιού"
+
+#: admin/templates/form/login_customize.php:58
+#: admin/templates/form/profile_customize.php:74
+#: admin/templates/form/register_customize.php:70
+msgid "Primary Button Hover Color"
+msgstr "Χρώμα κεντρικού κουμπιού στο mouseover"
+
+#: admin/templates/form/login_customize.php:62
+#: admin/templates/form/profile_customize.php:78
+#: admin/templates/form/register_customize.php:74
+msgid "Primary Button Text Color"
+msgstr "Χρώμα κειμένου κεντρικού κουμπιού "
+
+#: admin/templates/form/login_customize.php:67
+#: admin/templates/form/profile_customize.php:83
+#: admin/templates/form/register_customize.php:79
+msgid "Show Secondary Button"
+msgstr "Εμφάνιση δευτερεύοντος κουμπιού"
+
+#: admin/templates/form/login_customize.php:75
+#: admin/templates/form/profile_customize.php:91
+#: admin/templates/form/register_customize.php:87
+msgid "Secondary Button Text"
+msgstr "Κείμενο δευτερεύοντος κουμπιού"
+
+#: admin/templates/form/login_customize.php:79
+#: admin/templates/form/profile_customize.php:95
+#: admin/templates/form/register_customize.php:91
+msgid "Secondary Button Color"
+msgstr "Χρώμα δευτερεύοντος κουμπιού"
+
+#: admin/templates/form/login_customize.php:83
+#: admin/templates/form/profile_customize.php:99
+#: admin/templates/form/register_customize.php:95
+msgid "Secondary Button Hover Color"
+msgstr "Χρώμα δευτερεύοντος κουμπιού στο mouseover"
+
+#: admin/templates/form/login_customize.php:87
+#: admin/templates/form/profile_customize.php:103
+#: admin/templates/form/register_customize.php:99
+msgid "Secondary Button Text Color"
+msgstr "Χρώμα κειμένου δευτερεύοντος κουμπιού"
+
+#: admin/templates/form/login_customize.php:92
+msgid "Show Forgot Password Link?"
+msgstr "Εμφάνιση συνδέσμου Ξεχάσατε τον κωδικό σας;"
+
+#: admin/templates/form/login_customize.php:101
+msgid "Show \"Remember Me\"?"
+msgstr "Εμφάνιση \"Να με θυμάσαι\";"
+
+#: admin/templates/form/login_settings.php:3
+msgid "Redirection after Login"
+msgstr "Ανακατεύθυνση μετά μετά την είσοδο"
+
+#: admin/templates/form/login_settings.php:6
+msgid "Default"
+msgstr "Προεπιλεγμένο"
+
+#: admin/templates/form/login_settings.php:16
+#: admin/templates/role/delete.php:18 admin/templates/role/login.php:20
+#: admin/templates/role/logout.php:18 admin/templates/role/register.php:37
+#: admin/templates/role/register.php:76 admin/templates/role/register.php:124
+msgid "Set Custom Redirect URL"
+msgstr "Ορίστε Προσαρμοσμένη διεύθυνση URL ανακατεύθυνσης"
+
+#: admin/templates/form/mode.php:6
+msgid "<strong>Note:</strong> Form type cannot be changed for the default forms."
+msgstr "<Strong> Σημείωση: </ strong> Ο τύπος της φόρμας δεν μπορεί να αλλάξει τις προεπιλεγμένες φόρμες."
+
+#: admin/templates/form/mode.php:9 um-config.php:1542
+msgid "Registration Form"
+msgstr "Φόρμα Εγγραφής"
+
+#: admin/templates/form/mode.php:11
+msgid "Profile Form"
+msgstr "Φόρμα προφίλ"
+
+#: admin/templates/form/mode.php:13 um-config.php:1644
+msgid "Login Form"
+msgstr "Φόρμα εισόδου"
+
+#: admin/templates/form/profile_customize.php:14
+msgid "Make this profile role-specific"
+msgstr "Κάντε αυτό το προφίλ για συγκεκριμένους ρόλους"
+
+#: admin/templates/form/profile_customize.php:42
+msgid "Profile Area Max. Width (px)"
+msgstr "Μέγιστο πλάτος περιοχής προφίλ (px)"
+
+#: admin/templates/form/profile_customize.php:107
+msgid "Base Background Color"
+msgstr "Βασικό χρώμα φόντου"
+
+#: admin/templates/form/profile_customize.php:111
+msgid "Enable Cover Photos"
+msgstr "Ενεργοποίηση Πλαισίου φωτογραφιών"
+
+#: admin/templates/form/profile_customize.php:119
+msgid "Cover photo ratio"
+msgstr "Αναλογία φωτογραφίας εξωφύλλου"
+
+#: admin/templates/form/profile_customize.php:129 um-config.php:1298
+msgid "Profile Photo Size"
+msgstr "Μέγεθος φωτογραφίας προφίλ"
+
+#: admin/templates/form/profile_customize.php:133 um-config.php:1307
+msgid "Profile Photo Style"
+msgstr "Style φωτογραφίας προφίλ"
+
+#: admin/templates/form/profile_customize.php:136 um-config.php:1311
+msgid "Circle"
+msgstr "Κύκλος"
+
+#: admin/templates/form/profile_customize.php:137 um-config.php:1312
+msgid "Rounded Corners"
+msgstr "Στρογγυλεμένες γωνίες"
+
+#: admin/templates/form/profile_customize.php:138 um-config.php:1313
+msgid "Square"
+msgstr "Τετράγωνο"
+
+#: admin/templates/form/profile_customize.php:143
+msgid "Header Background Color"
+msgstr "Χρώμα φόντου κεφαλίδας"
+
+#: admin/templates/form/profile_customize.php:147
+msgid "Header Meta Text Color"
+msgstr "Χρώμα κειμένου κεφαλίδας"
+
+#: admin/templates/form/profile_customize.php:151
+msgid "Header Link Color"
+msgstr "Χρώμα συνδέσμου κεφαλίδας"
+
+#: admin/templates/form/profile_customize.php:155
+msgid "Header Link Hover"
+msgstr "Χρώμα συνδέσμου κεφαλίδας στο mouseover"
+
+#: admin/templates/form/profile_customize.php:159
+msgid "Header Icon Link Color"
+msgstr "Χρώμα εικονιδίου συνδέσμου κεφαλίδας"
+
+#: admin/templates/form/profile_customize.php:163
+msgid "Header Icon Link Hover"
+msgstr "Εικονίδιο συνδέσμου Χρώμα συνδέσμου κεφαλίδας στο mouseover"
+
+#: admin/templates/form/profile_customize.php:168
+msgid "Show display name in profile header?"
+msgstr "Εμφάνιση ονόματος προβολής στην κεφαλίδα προφίλ;"
+
+#: admin/templates/form/profile_customize.php:177
+msgid "Show social links in profile header?"
+msgstr "Εμφάνιση συνδέσμων κοινωνικών δικτύων στην κεφαλίδα προφίλ;"
+
+#: admin/templates/form/profile_customize.php:186
+msgid "Show user description in profile header?"
+msgstr "Εμφάνιση περιγραφής χρήστη στην κεφαλίδα προφίλ;"
+
+#: admin/templates/form/profile_settings.php:4
+msgid "Field(s) to show in user meta"
+msgstr "Το πεδίο(-α) που θα φαίνονται από τα στοιχεία του χρήστη"
+
+#: admin/templates/form/register_customize.php:4
+msgid "Switch to no if you want to customize this form settings, styling &amp; appearance"
+msgstr "Αλλαγή σε όχι, αν θέλετε να προσαρμόσετε τις ρυθμίσεις αυτής της φόρμας, στυλ & amp? εμφάνιση"
+
+#: admin/templates/form/register_customize.php:14
+msgid "Assign role to form"
+msgstr "Ορισμός ρόλου στη φόρμα"
+
+#: admin/templates/form/register_customize.php:42 um-config.php:1198
+#: um-config.php:1568 um-config.php:1670
+msgid "The shortcode is centered by default unless you specify otherwise here"
+msgstr "Το shortcode είναι στο κέντρο από προεπιλογή, εκτός αν το καθορίσετε διαφορετικά από εδώ"
+
+#: admin/templates/form/register_customize.php:52
+msgid "Whether to show field icons and where to show them relative to the field"
+msgstr "Είτε για να εμφανιστούν τα εικονίδια των πεδίων και να εμφανίζεται σχέση με το πεδίο"
+
+#: admin/templates/form/register_customize.php:62
+#: admin/templates/form/register_customize.php:87
+msgid "Customize the button text"
+msgstr "Προσαρμόστε το κείμενο του κουμπιού"
+
+#: admin/templates/form/register_customize.php:66
+msgid "Override the default primary button color"
+msgstr "Παράκαμψη του προεπιλεγμένου χρώματος για το πρωτεύον κουμπί"
+
+#: admin/templates/form/register_customize.php:70
+msgid "Override the default primary button hover color"
+msgstr "Παρακάμψετε το προεπιλεγμένο χρώμα του πρωτεύοντος κουμπιού στο mouseover"
+
+#: admin/templates/form/register_customize.php:74
+msgid "Override the default primary button text color"
+msgstr "Παράκαμψη το προεπιλεγμένο χρώμα του κειμένου στο πρωτεύον κουμπί"
+
+#: admin/templates/form/register_customize.php:91
+msgid "Override the default secondary button color"
+msgstr "Παρακάμψετε το προεπιλεγμένο χρώμα του δευτερεύοντος κουμπιού"
+
+#: admin/templates/form/register_customize.php:95
+msgid "Override the default secondary button hover color"
+msgstr "Παράκαμψη του προεπιλεγμένου χρώματος στο κουμπί στο mouseover"
+
+#: admin/templates/form/register_customize.php:99
+msgid "Override the default secondary button text color"
+msgstr "Παράκαμψη του προεπιλεγμένου χρώματος του κειμένου του δευτερέυοντος κουμπιού"
+
+#: admin/templates/modal/dynamic_edit_field.php:6
+msgid "Edit Field"
+msgstr "Επεξεργασία Πεδίου"
+
+#: admin/templates/modal/dynamic_edit_field.php:14
+#: admin/templates/modal/dynamic_edit_row.php:14
+msgid "Update"
+msgstr "Ενημέρωση"
+
+#: admin/templates/modal/dynamic_edit_field.php:15
+#: admin/templates/modal/dynamic_edit_row.php:15
+#: admin/templates/modal/dynamic_new_divider.php:15
+#: admin/templates/modal/dynamic_new_field.php:15
+#: admin/templates/modal/dynamic_new_group.php:15
+#: core/um-actions-profile.php:202 core/um-actions-profile.php:316
+#: core/um-actions-profile.php:326 core/um-actions-profile.php:464
+#: core/um-fields.php:1280 core/um-fields.php:1365
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: admin/templates/modal/dynamic_edit_row.php:6
+msgid "Edit Row Settings"
+msgstr "Επεξεργασία ρυθμίσεων σειράς"
+
+#: admin/templates/modal/dynamic_form_preview.php:4
+msgid "Live Form Preview"
+msgstr "Ζωντανή προεπισκόπηση φόρμας"
+
+#: admin/templates/modal/dynamic_form_preview.php:12
+msgid "Continue editing"
+msgstr "Συνεχίστε την επεξεργασία"
+
+#: admin/templates/modal/dynamic_new_divider.php:6
+msgid "Add a New Divider"
+msgstr "Προσθέστε νέο διαχωριστικά"
+
+#: admin/templates/modal/dynamic_new_divider.php:14
+#: admin/templates/modal/dynamic_new_field.php:14
+#: admin/templates/modal/dynamic_new_group.php:14
+msgid "Add"
+msgstr "Προσθήκη"
+
+#: admin/templates/modal/dynamic_new_field.php:6
+msgid "Add a New Field"
+msgstr "Προσθέστε ένα νέο πεδίο"
+
+#: admin/templates/modal/dynamic_new_group.php:6
+msgid "Add a New Field Group"
+msgstr "Προσθέσετε μια ομάδα πεδίων"
+
+#: admin/templates/modal/dynamic_registration_preview.php:4
+msgid "Review Registration Details"
+msgstr "Προεπισκόπιση λεπτομεριών εγγραφής"
+
+#: admin/templates/modal/fields.php:4
+msgid "Fields Manager"
+msgstr "Διαχείριση πεδίων"
+
+#: admin/templates/modal/fonticons.php:4
+#, php-format
+msgid "Choose from %s available icons"
+msgstr "Επιλέξτε από %s διαθέσιμες εικόνες"
+
+#: admin/templates/role/admin.php:7 admin/templates/role/admin.php:16
+msgid "Can access wp-admin?"
+msgstr "Μπορούν να έχουν πρόσβαση στο wp-admin;"
+
+#: admin/templates/role/admin.php:7
+msgid "The core admin role must always have access to wp-admin / WordPress backend"
+msgstr "Ο βασικός ρόλος διαχειριστή πρέπει να έχουν πάντα πρόσβαση σε wp-admin / WordPress backend"
+
+#: admin/templates/role/admin.php:11 admin/templates/role/admin.php:20
+msgid "Force hiding adminbar in frontend?"
+msgstr "Να κρύβεται η μπάρα διαχειριστή στο frontend;"
+
+#: admin/templates/role/admin.php:11 admin/templates/role/admin.php:20
+msgid "Show/hide the adminbar on frontend"
+msgstr "Εμφάνιση / απόκρυψη του adminbar στο frontend"
+
+#: admin/templates/role/admin.php:16
+msgid "Allow this role to access the admin dashboard. If turned on the WordPress toolbar will appear at top of the page."
+msgstr "Επιτρέψτε σε αυτό το ρόλο για να αποκτήσει πρόσβαση στο πίνακα ελέγχου του διαχειριστή. Εάν είναι ενεργοποιημένη η γραμμή εργαλείων του WordPress θα εμφανιστεί στο πάνω μέρος της σελίδας."
+
+#: admin/templates/role/admin.php:26
+msgid "Can edit other member accounts?"
+msgstr "Μπορείτε να επεξεργάζεται άλλους λογαριασμούς μελών;"
+
+#: admin/templates/role/admin.php:26
+msgid "Allow this role to edit accounts of other members"
+msgstr "Επιτρέψτε σε αυτό το ρόλο για να επεξεργάζεται τους λογαριασμούς των άλλων μελών"
+
+#: admin/templates/role/admin.php:31
+msgid "Can edit these user roles only"
+msgstr "Μπορούν να επεξεργαστούν μόνο αυτούς τους ρόλους των χρηστών"
+
+#: admin/templates/role/admin.php:31
+msgid "Which roles that role can edit, choose none to allow role to edit all member roles"
+msgstr "Ποιοι ρόλους ο ρόλος αυτός μπορεί να επεξεργαστεί, επιλέξετε κανένα για να επιτρέψετε στο ρόλο αυτό να επεξεργάζεται και τους άλλους ρόλους των μελών"
+
+#: admin/templates/role/admin.php:44
+msgid "Can delete other member accounts?"
+msgstr "Μπορείτενα διαγράψει άλλους λογαριασμούς μελών;"
+
+#: admin/templates/role/admin.php:44
+msgid "Allow this role to edit the profile fields of certain roles only"
+msgstr "Επιτρέψτε σε αυτό το ρόλο να επεξεργάζεται τα πεδία προφίλ μόνο σε συγκεκριμένους ρόλους"
+
+#: admin/templates/role/admin.php:49
+msgid "Can delete these user roles only"
+msgstr "Μπορείτε να διαγράψετε μόνο αυτούς τους ρόλους των χρηστών"
+
+#: admin/templates/role/admin.php:49
+msgid "Which roles that role can delete, choose none to allow role to delete all member roles"
+msgstr "Ποιους ρόλους ο ρόλος αυτός μπορεί να διαγράψει, επιλέξτε κανένα ρόλο για να επιτρέψει να διαγράψετε όλους τους ρόλους των μελών"
+
+#: admin/templates/role/delete.php:6
+msgid "Action to be taken after account is deleted"
+msgstr "Μέτρα που πρέπει να ληφθούν μετά την διαγραφή του λογαριασμού"
+
+#: admin/templates/role/delete.php:6
+msgid "Select what happens when a user with this role deletes their own account"
+msgstr "Επιλέξτε τι θα συμβαίνει όταν ένας χρήστης με αυτό το ρόλο διαγράφει δικό του λογαριασμό"
+
+#: admin/templates/role/delete.php:10 admin/templates/role/logout.php:10
+msgid "Go to Homepage"
+msgstr "Πηγαίνετε στην αρχική σελίδα"
+
+#: admin/templates/role/delete.php:11 admin/templates/role/logout.php:11
+msgid "Go to Custom URL"
+msgstr "Μετάβαση στην προσαρμοσμένη διεύθυνση URL"
+
+#: admin/templates/role/delete.php:18
+msgid "Set a url to redirect this user role to after they delete account"
+msgstr "Ορίστε μια διεύθυνση URL για ανακατεύθυνση αυτού του ρόλου χρήστη μετά τη διαγραφή του λογαριασμού"
+
+#: admin/templates/role/general.php:6
+msgid "Can edit their profile?"
+msgstr "Μπορούν να επεξεργαστούν το προφίλ τους;"
+
+#: admin/templates/role/general.php:6
+msgid "Can this role edit his own profile?"
+msgstr "Μπορείτεαυτός ο ρόλος να επεξεργάζεται το προφίλ του;"
+
+#: admin/templates/role/general.php:11
+msgid "Can delete their account?"
+msgstr "Είναι δυνατή η διαγραφή του λογαριασμού τους;"
+
+#: admin/templates/role/general.php:11
+msgid "Allow this role to delete their account and end their membership on your site"
+msgstr "Επιτρέψτε σε αυτό το ρόλο να διαγράψει τον λογαριασμό του και τα μέλη στο site σας"
+
+#: admin/templates/role/home.php:6
+msgid "Can view default homepage?"
+msgstr "Μπορείτε να δείτε προεπιλεγμένη αρχική σελίδα;"
+
+#: admin/templates/role/home.php:6
+msgid "Allow this user role to view your site's homepage"
+msgstr "Επιτρέψτε σε αυτό το ρόλο του χρήστη να βλέπει την αρχική σελίδα του δικτυακού σας τόπου"
+
+#: admin/templates/role/home.php:15
+msgid "Custom Homepage Redirect"
+msgstr "Προσαρμοσμένη Αρχική σελίδα ανακατεύθυνσης"
+
+#: admin/templates/role/home.php:15
+msgid "Set a url to redirect this user role to if they try to view your site's homepage "
+msgstr "Ορίστε μια διεύθυνση URL για να ανακατευθύνετε αυτόν το ρόλο χρήστη αν προσπαθήσει να δεί την αρχική σελίδα του δικτυακού σας τόπου "
+
+#: admin/templates/role/login.php:6
+msgid "Action to be taken after login"
+msgstr "Μέτρα που πρέπει να ληφθούν μετά την είσοδο"
+
+#: admin/templates/role/login.php:6
+msgid "Select what happens when a user with this role logins to your site"
+msgstr "Επιλέξτε τι συμβαίνει όταν ένας χρήστης με αυτό το ρόλο συνδέσεις στο δικτυακό σας τόπο"
+
+#: admin/templates/role/login.php:10 admin/templates/role/register.php:29
+msgid "Redirect to profile"
+msgstr "Ανακατεύθυνση στο προφίλ"
+
+#: admin/templates/role/login.php:11 admin/templates/role/register.php:30
+#: admin/templates/role/register.php:60 admin/templates/role/register.php:108
+msgid "Redirect to URL"
+msgstr "Ανακατεύθυνση στο URL"
+
+#: admin/templates/role/login.php:12
+msgid "Refresh active page"
+msgstr "Ανανέωση ενεργής σελίδας"
+
+#: admin/templates/role/login.php:13
+msgid "Redirect to WordPress Admin"
+msgstr "Ανακατεύθυνση στο WordPress διαχειριστή"
+
+#: admin/templates/role/login.php:20
+msgid "Set a url to redirect this user role to after they login with their account"
+msgstr "Ορίστε μια διεύθυνση URL για να ανακατευθύνετε αυτόν το ρόλο χρήστη μετά τη σύνδεσή τους με το λογαριασμό τους"
+
+#: admin/templates/role/logout.php:6
+msgid "Action to be taken after logout"
+msgstr "Μέτρα που πρέπει να ληφθούν μετά την αποσύνδεση"
+
+#: admin/templates/role/logout.php:6
+msgid "Select what happens when a user with this role logouts of your site"
+msgstr "Επιλέξτε τι συμβαίνει όταν ένας χρήστης με αυτό το ρόλο αποσυνδεθεί του site σας"
+
+#: admin/templates/role/logout.php:18
+msgid "Set a url to redirect this user role to after they logout from site"
+msgstr "Ορίστε μια διεύθυνση URL για να ανακατευθύνετε αυτόν το ρόλο χρήστη αφού αποσυνδεθεί από το site"
+
+#: admin/templates/role/profile.php:6
+msgid "Can view other member profiles?"
+msgstr "Μπορείτε να δείτε άλλα προφίλ των μελών;"
+
+#: admin/templates/role/profile.php:6
+msgid "Can this role view all member profiles?"
+msgstr "Μπορείτε να δείτε αυτό το ρόλο όλων των προφίλ των μελών;"
+
+#: admin/templates/role/profile.php:11
+msgid "Can view these user roles only"
+msgstr "Μπορείτε να δείτε αυτούς τους ρόλους των χρηστών μόνο"
+
+#: admin/templates/role/profile.php:11
+msgid "Which roles that role can view, choose none to allow role to view all member roles"
+msgstr "Ποιους ρόλους ο ρόλος αυτός μπορεί να δει, επιλέξτε κανένα για να μπορεί ο ρόλος αυτός να δει όλους τους ρόλους των μελών"
+
+#: admin/templates/role/profile.php:24
+msgid "Can make their profile private?"
+msgstr "Μπορούν να κάνουν το προφίλ τους ιδιωτικό;"
+
+#: admin/templates/role/profile.php:24
+msgid "Can this role make their profile private?"
+msgstr "Μπορεί αυτός ο ρόλος να κάνει το πρφίλ του ιδιωτικό"
+
+#: admin/templates/role/profile.php:29
+msgid "Can view/access private profiles?"
+msgstr "Μπορείτενα δείτε / την πρόσβαση σε ιδιωτικά προφίλ;"
+
+#: admin/templates/role/profile.php:29
+msgid "Can this role view private profiles?"
+msgstr "Μπορείτε να δείτε αυτό το ρόλο του ιδιωτικού προφίλ;"
+
+#: admin/templates/role/register.php:6
+msgid "Registration Status"
+msgstr "Κατάσταση Εγγραφής"
+
+#: admin/templates/role/register.php:6
+msgid "Select the status you would like this user role to have after they register on your site"
+msgstr "Επιλέξτε την κατάσταση που θα επιτρέπει σε αυτό το ρόλο χρήστη να έχει μετά την εγγραφή του στο site σας"
+
+#: admin/templates/role/register.php:13
+msgid "Auto Approve"
+msgstr "Αυτόματη Έγκριση"
+
+#: admin/templates/role/register.php:14
+msgid "Require Email Activation"
+msgstr "Απαίτηση Email ενεργοποίησης"
+
+#: admin/templates/role/register.php:15
+msgid "Require Admin Review"
+msgstr "Απαίτηση ελέγχου από τον διαχειριστή"
+
+#: admin/templates/role/register.php:25 admin/templates/role/register.php:53
+#: admin/templates/role/register.php:101
+msgid "Action to be taken after registration"
+msgstr "Μέτρα που πρέπει να ληφθούν μετά την καταχώριση"
+
+#: admin/templates/role/register.php:25 admin/templates/role/register.php:53
+#: admin/templates/role/register.php:101
+msgid "Select what action is taken after a person registers on your site. Depending on the status you can redirect them to their profile, a custom url or show a custom message"
+msgstr "Επιλέξτε ποια μέτρα λαμβάνονται μετά από ένα πρόσωπο που καταχωρεί στην ιστοσελίδα σας. Ανάλογα με την κατάσταση, μπορείτε να τους κατευθύνετε στο προφίλ τους, μια προσαρμοσμένη διεύθυνση URL ή να εμφανίσετε ένα προσαρμοσμένο μήνυμα"
+
+#: admin/templates/role/register.php:59 admin/templates/role/register.php:107
+msgid "Show custom message"
+msgstr "Εμφάνιση προσαρμοσμένου μηνύματος"
+
+#: admin/templates/role/register.php:67 admin/templates/role/register.php:115
+msgid "Personalize the custom message"
+msgstr "Προσαρμόστε το δικό μας μήνυμα"
+
+#: admin/templates/role/register.php:70
+msgid "Thank you for registering. Before you can login we need you to activate your account by clicking the activation link in the email we just sent you."
+msgstr "Ευχαριστούμε για την εγγραφή. Για να μπορέσετε να συνδεθείτε θα πρέπει να ενεργοποιήσετε το λογαριασμό σας κάνοντας κλικ στο σύνδεσμο ενεργοποίησης στο email που μόλις σας στείλαμε."
+
+#: admin/templates/role/register.php:85
+msgid "URL redirect after e-mail activation"
+msgstr "URL ανακατεύθυνσης μετά την ενεργοποίηση e-mail"
+
+#: admin/templates/role/register.php:85
+msgid "If you want users to go to a specific page other than login page after e-mail activation, enter the URL here."
+msgstr "Αν θέλετε οι χρήστες να πάνε σε μια συγκεκριμένη σελίδα, εκτός από την σελίδα εισόδου μετά το e-mail ενεργοποίησης, πληκτρολογήστε τη διεύθυνση URL εδώ."
+
+#: admin/templates/role/register.php:118
+msgid "Thank you for applying for membership to our site. We will review your details and send you an email letting you know whether your application has been successful or not."
+msgstr "Σας ευχαριστούμε για την υποβολή αίτησης για ένταξη στο site μας. Θα εξετάσουμε τα στοιχεία σας και θα σας στείλουμε ένα μήνυμα ηλεκτρονικού ταχυδρομείου που σας επιτρέπει να γνωρίζετε αν η αίτησή σας ήταν επιτυχής ή όχι."
+
+#: core/lib/upload/um-file-upload.php:42 core/lib/upload/um-image-upload.php:43
+msgid "A theme or plugin compatibility issue"
+msgstr "Ένα ζήτημα της συμβατότητας του theme ή του plugin"
+
+#: core/um-account.php:25 um-config.php:122
+msgid "Account"
+msgstr "Λογαριασμός"
+
+#: core/um-account.php:28
+msgid "Change Password"
+msgstr "Αλλάξτε Κωδικό"
+
+#: core/um-account.php:31
+msgid "Privacy"
+msgstr "Ιδιωτικότητα"
+
+#: core/um-account.php:34 um-config.php:725
+msgid "Notifications"
+msgstr "Ειδοποιήσεις"
+
+#: core/um-account.php:37 core/um-actions-account.php:31
+#: core/um-actions-account.php:66 core/um-actions-account.php:124
+#: core/um-actions-account.php:172 core/um-builtin.php:888
+#: core/um-builtin.php:891
+msgid "Delete Account"
+msgstr "Διαγραφή Λογαριασμού"
+
+#: core/um-actions-account.php:69
+msgid "You must provide your first name"
+msgstr "Πρέπει να δώσετε το όνομά σας"
+
+#: core/um-actions-account.php:73
+msgid "You must provide your last name"
+msgstr "Πρέπει να δώσετε το επώνυμό σας"
+
+#: core/um-actions-account.php:77
+msgid "You must provide your e-mail"
+msgstr "Θα πρέπει να δώσετε το e-mail σας"
+
+#: core/um-actions-account.php:81
+msgid "Please provide a valid e-mail"
+msgstr "Παρακαλώ δώστε μια έγκυρη διεύθυνση e-mail"
+
+#: core/um-actions-account.php:85
+msgid "Email already linked to another account"
+msgstr "Το Email αυτό έχει ήδη συνδεθεί με άλλο λογαριασμό"
+
+#: core/um-actions-account.php:94 core/um-actions-account.php:129
+msgid "This is not your password"
+msgstr "Αυτό δεν είναι το συνθηματικό σας"
+
+#: core/um-actions-account.php:99
+msgid "Your new password does not match"
+msgstr "Ο νέος σας κωδικός δεν ταιριάζει"
+
+#: core/um-actions-account.php:106 core/um-actions-password.php:123
+msgid "Your password must contain at least 8 characters"
+msgstr "Ο κωδικός πρόσβασής σας πρέπει να περιέχει τουλάχιστον 8 χαρακτήρες"
+
+#: core/um-actions-account.php:110 core/um-actions-password.php:127
+msgid "Your password must contain less than 30 characters"
+msgstr "Ο κωδικός πρόσβασής σας πρέπει να περιέχει λιγότερο από 30 χαρακτήρες"
+
+#: core/um-actions-account.php:114 core/um-actions-form.php:206
+#: core/um-actions-password.php:131
+msgid "Your password must contain at least one lowercase letter, one capital letter and one number"
+msgstr "Ο κωδικός πρόσβασής σας πρέπει να περιέχει τουλάχιστον ένα πεζό γράμμα, ένα κεφαλαίο γράμμα και έναν αριθμό"
+
+#: core/um-actions-account.php:126
+msgid "You must enter your password"
+msgstr "Θα πρέπει να εισάγετε τον κωδικό πρόσβασής σας"
+
+#: core/um-actions-account.php:202
+msgid "Update Privacy"
+msgstr "Ενημέρωση Προστασίας Προσωπικών Δεδομένων"
+
+#: core/um-actions-account.php:232
+msgid "Update Account"
+msgstr "Ενημέρωση λογαριασμού"
+
+#: core/um-actions-account.php:262
+msgid "Update Password"
+msgstr "Ενημέρωση Κωδικού"
+
+#: core/um-actions-account.php:288
+msgid "Email me when"
+msgstr "Στείλτε e-mail μου, όταν"
+
+#: core/um-actions-account.php:296
+msgid "Update Notifications"
+msgstr "Ειδοποιήσεις Ενημέρωσης"
+
+#: core/um-actions-ajax.php:42 core/um-actions-ajax.php:57
+#: core/um-actions-ajax.php:107
+msgid "You can not edit this user"
+msgstr "Δεν μπορείτε να επεξεργαστείτε αυτόν το χρήστη"
+
+#: core/um-actions-ajax.php:74
+msgid "Invalid parameters"
+msgstr "Μη έγκυρες παράμετροι"
+
+#: core/um-actions-ajax.php:77
+msgid "Invalid coordinates"
+msgstr "Μη έγκυρες συντεταγμένες"
+
+#: core/um-actions-ajax.php:80
+msgid "Invalid Image file"
+msgstr "Μη έγκυρο αρχείο εικόνας"
+
+#: core/um-actions-core.php:76
+msgid "You do not have permission to delete this user."
+msgstr "Δεν έχετε άδεια να διαγράψετε αυτό το χρήστη."
+
+#: core/um-actions-form.php:99
+msgid "You are not allowed to use this word as your username."
+msgstr "Δεν επιτρέπεται να χρησιμοποιήσετε αυτή τη λέξη για το όνομα χρήστη σας."
+
+#: core/um-actions-form.php:159 core/um-actions-form.php:163
+#, php-format
+msgid "%s is required."
+msgstr "%s είναι απαραίτητο."
+
+#: core/um-actions-form.php:168
+msgid "Please specify account type."
+msgstr "Παρακαλείστε να προσδιορίσετε τον τύπο του λογαριασμού."
+
+#: core/um-actions-form.php:176
+#, php-format
+msgid "%s is required"
+msgstr "%s απαιτείται"
+
+#: core/um-actions-form.php:182
+#, php-format
+msgid "You are only allowed to enter a maximum of %s words"
+msgstr "Επιτρέπεται μόνο να εισάγετε ένα μέγιστο των %s λέξεις"
+
+#: core/um-actions-form.php:188
+#, php-format
+msgid "Your %s must contain at least %s characters"
+msgstr "Σας %s πρέπει να περιέχει τουλάχιστον %s χαρακτήρες"
+
+#: core/um-actions-form.php:194
+#, php-format
+msgid "Your %s must contain less than %s characters"
+msgstr "Σας %s πρέπει να περιέχει λιγότερο από %s χαρακτήρες"
+
+#: core/um-actions-form.php:200
+msgid "You can not use HTML tags here"
+msgstr "Δεν μπορείτε να χρησιμοποιήσετε HTML ετικέτες εδώ"
+
+#: core/um-actions-form.php:212
+msgid "Please confirm your password"
+msgstr "Παρακαλούμε να επιβεβαιώσετε τον κωδικό πρόσβασής σας"
+
+#: core/um-actions-form.php:215 core/um-actions-password.php:141
+msgid "Your passwords do not match"
+msgstr "οι κωδικοί σου δεν ταιριάζουν"
+
+#: core/um-actions-form.php:221
+#, php-format
+msgid "Please select at least %s choices"
+msgstr "Επιλέξτε τουλάχιστον %s επιλογές"
+
+#: core/um-actions-form.php:227
+#, php-format
+msgid "You can only select up to %s choices"
+msgstr "Μπορείτε να επιλέξετε μόνο μέχρι %s επιλογές"
+
+#: core/um-actions-form.php:237
+msgid "Please enter numbers only in this field"
+msgstr "Παρακαλώ εισάγετε μόνο αριθμούς σε αυτό το πεδίο"
+
+#: core/um-actions-form.php:243
+msgid "Please enter a valid phone number"
+msgstr "Παρακαλώ εισάγετε έναν έγκυρο αριθμό τηλεφώνου"
+
+#: core/um-actions-form.php:249 core/um-actions-form.php:255
+#: core/um-actions-form.php:261 core/um-actions-form.php:267
+#: core/um-actions-form.php:273 core/um-actions-form.php:279
+#: core/um-actions-form.php:285 core/um-actions-form.php:291
+#, php-format
+msgid "Please enter a valid %s username or profile URL"
+msgstr "Παρακαλώ εισάγετε ένα έγκυρο %s όνομα χρήστη ή τη διεύθυνση URL προφίλ"
+
+#: core/um-actions-form.php:298 core/um-actions-form.php:312
+msgid "You must provide a username"
+msgstr "Πρέπει να δώσετε ένα όνομα χρήστη"
+
+#: core/um-actions-form.php:300 core/um-actions-form.php:314
+msgid "Your username is already taken"
+msgstr "Το όνομα χρήστη σας είναι ήδη ληφθεί"
+
+#: core/um-actions-form.php:302
+msgid "Username cannot be an email"
+msgstr "Το όνομα χρήστη δεν μπορεί να είναι ένα e-mail"
+
+#: core/um-actions-form.php:304 core/um-actions-form.php:318
+msgid "Your username contains invalid characters"
+msgstr "Το όνομα χρήστη σας περιέχει μη έγκυρους χαρακτήρες"
+
+#: core/um-actions-form.php:316 core/um-actions-form.php:330
+#: core/um-actions-form.php:342
+msgid "This email is already linked to an existing account"
+msgstr "Αυτό το email είναι ήδη συνδεδεμένος με έναν υπάρχοντα λογαριασμό"
+
+#: core/um-actions-form.php:328
+msgid "You must provide your email"
+msgstr "Πρέπει να δώσετε το email σας"
+
+#: core/um-actions-form.php:332 core/um-actions-form.php:340
+msgid "This is not a valid email"
+msgstr "Αυτό δεν είναι ένα έγκυρο email"
+
+#: core/um-actions-form.php:334
+msgid "Your email contains invalid characters"
+msgstr "Το email σας περιέχει μη έγκυρους χαρακτήρες"
+
+#: core/um-actions-form.php:358
+#, php-format
+msgid "Your user description must contain less than %s characters"
+msgstr "Περιγραφή χρήστης σας πρέπει να περιέχει λιγότερο από %s χαρακτήρες"
+
+#: core/um-actions-global.php:28
+msgid "Only fill in if you are not human"
+msgstr "Συμπληρώστε μόνο αν δεν είστε άνθρωπος"
+
+#: core/um-actions-login.php:16
+msgid "Please enter your username or email"
+msgstr "Παρακαλώ εισάγετε το όνομα χρήστη ή το email σας"
+
+#: core/um-actions-login.php:20
+msgid "Please enter your username"
+msgstr "Παρακαλώ εισάγετε το όνομα χρήστη σας"
+
+#: core/um-actions-login.php:24
+msgid "Please enter your email"
+msgstr "Παρακαλώ εισάγετε το email σας"
+
+#: core/um-actions-login.php:48
+msgid " Sorry, we can't find an account with that email address"
+msgstr " Δυστυχώς, δεν μπορούμε να βρούμε ένα λογαριασμό με τη συγκεκριμένη διεύθυνση ηλεκτρονικού ταχυδρομείου"
+
+#: core/um-actions-login.php:50
+msgid " Sorry, we can't find an account with that username"
+msgstr " Δυστυχώς, δεν μπορούμε να βρούμε ένα λογαριασμό με αυτό το όνομα χρήστη"
+
+#: core/um-actions-login.php:54
+msgid "Please enter your password"
+msgstr "Παρακαλώ εισάγετε τον κωδικό πρόσβασής σας"
+
+#: core/um-actions-login.php:69
+msgid "Password is incorrect. Please try again."
+msgstr "Ο κωδικός πρόσβασης είναι εσφαλμένος. Παρακαλώ προσπάθησε ξανά."
+
+#: core/um-actions-login.php:192
+msgid "Keep me signed in"
+msgstr "Κράτησε με συνδεδεμένο"
+
+#: core/um-actions-login.php:225
+msgid "Forgot your password?"
+msgstr "Ξέχασες τον κωδικό σου;"
+
+#: core/um-actions-members.php:64
+msgid "Search"
+msgstr "Έρευνα"
+
+#: core/um-actions-members.php:64
+msgid "Reset"
+msgstr "Επαναφορά"
+
+#: core/um-actions-members.php:123
+msgid "Jump to page:"
+msgstr "Μετάβαση στη σελίδα:"
+
+#: core/um-actions-members.php:127
+#, php-format
+msgid "%s of %d"
+msgstr "%s από %d"
+
+#: core/um-actions-members.php:136
+msgid "First Page"
+msgstr "Πρώτη Σελίδα"
+
+#: core/um-actions-members.php:142
+msgid "Previous"
+msgstr "Προηγούμενος"
+
+#: core/um-actions-members.php:160
+msgid "Next"
+msgstr "Επόμενος"
+
+#: core/um-actions-members.php:166
+msgid "Last Page"
+msgstr "Τελευταία Σελίδα"
+
+#: core/um-actions-misc.php:56 core/um-actions-misc.php:91
+msgid "Registration is currently disabled"
+msgstr "Η εγγραφή είναι προς το παρόν απενεργοποιημένη"
+
+#: core/um-actions-misc.php:67
+msgid "Your account was updated successfully."
+msgstr "Ο λογαριασμός σας ενημερώθηκε με επιτυχία."
+
+#: core/um-actions-misc.php:71
+msgid "You have successfully changed your password."
+msgstr "Έχετε αλλάξει επιτυχώς τον κωδικό πρόσβασής σας."
+
+#: core/um-actions-misc.php:75
+msgid "Your account is now active! You can login."
+msgstr "Ο λογαριασμός σας είναι τώρα ενεργός! Μπορείτε να συνδεθείτε."
+
+#: core/um-actions-misc.php:87
+msgid "An error has been encountered"
+msgstr "Έχει παρουσιαστεί κάποιο σφάλμα"
+
+#: core/um-actions-misc.php:95 core/um-filters-login.php:33
+msgid "This email address has been blocked."
+msgstr "Αυτή η διεύθυνση ηλεκτρονικού ταχυδρομείου έχει αποκλειστεί."
+
+#: core/um-actions-misc.php:99
+msgid "We do not accept registrations from that domain."
+msgstr "Δεν δεχόμαστε εγγραφές από αυτόν τον τομέα."
+
+#: core/um-actions-misc.php:103 core/um-filters-login.php:36
+msgid "Your IP address has been blocked."
+msgstr "Η διεύθυνση IP σας έχει υποστεί φραγή."
+
+#: core/um-actions-misc.php:107 core/um-filters-login.php:78
+msgid "Your account has been disabled."
+msgstr "Ο λογαριασμός σας έχει απενεργοποιηθεί."
+
+#: core/um-actions-misc.php:111 core/um-filters-login.php:81
+msgid "Your account has not been approved yet."
+msgstr "Ο λογαριασμός σας δεν έχει εγκριθεί ακόμη."
+
+#: core/um-actions-misc.php:115 core/um-filters-login.php:84
+msgid "Your account is awaiting e-mail verification."
+msgstr "Ο λογαριασμός σας περιμένει επιβεβαίωση μέσω ηλεκτρονικού ταχυδρομείου."
+
+#: core/um-actions-misc.php:119 core/um-filters-login.php:87
+msgid "Your membership request has been rejected."
+msgstr "Η αίτηση συμμετοχής σας έχει απορριφθεί."
+
+#: core/um-actions-password.php:80 core/um-actions-password.php:111
+#: core/um-form.php:84
+msgid "Hello, spam bot!"
+msgstr "Γεια σας, spam bot!"
+
+#: core/um-actions-password.php:83 core/um-actions-password.php:114
+#: core/um-form.php:87
+msgid "Whoa, slow down! You're seeing this message because you tried to submit a form too fast and we think you might be a spam bot. If you are a real human being please wait a few seconds before submitting the form. Thanks!"
+msgstr "Πω πω, παραμένει ανενεργό! Θα βλέπετε αυτό το μήνυμα επειδή έχετε προσπαθήσει να υποβάλετε έντυπο πάρα πολύ γρήγορα και πιστεύουμε ότι θα μπορούσε να είναι ένα bot spam. Αν είστε άνθρωπος παρακαλώ περιμένετε λίγα δευτερόλεπτα πριν την υποβολή της φόρμας. Ευχαριστύμε!"
+
+#: core/um-actions-password.php:86
+msgid "Please provide your username or email"
+msgstr "Παρακαλώ δώστε το όνομα χρήστη ή το email σας"
+
+#: core/um-actions-password.php:92
+msgid " We can't find an account registered with that address or username "
+msgstr " Δεν μπορούμε να βρούμε ένα εγγεγραμμένο λογαριασμό με αυτή τη διεύθυνση ή το όνομα χρήστη "
+
+#: core/um-actions-password.php:117
+msgid "You must enter a new password"
+msgstr "Θα πρέπει να εισάγετε έναν νέο κωδικό πρόσβασης"
+
+#: core/um-actions-password.php:137
+msgid "You must confirm your new password"
+msgstr "Θα πρέπει να επιβεβαιώσετε το νέο κωδικό πρόσβασης"
+
+#: core/um-actions-password.php:193
+msgid "Reset my password"
+msgstr "Επαναφορά του κωδικού πρόσβασής μου"
+
+#: core/um-actions-password.php:220
+msgid "Change my password"
+msgstr "Αλλάξτε τον κωδικό μου"
+
+#: core/um-actions-profile.php:53
+msgid "You are not allowed to edit this user."
+msgstr "Δεν επιτρέπεται να επεξεργάζεστε αυτό το χρήστη."
+
+#: core/um-actions-profile.php:186 core/um-builtin.php:825
+msgid "Change your cover photo"
+msgstr "Αλλάξτε τη φωτογραφία εξωφύλλου σας"
+
+#: core/um-actions-profile.php:200
+msgid "Change cover photo"
+msgstr "Αλλαγή φωτογραφίας εξωφύλλου"
+
+#: core/um-actions-profile.php:242
+msgid "Upload a cover photo"
+msgstr "Καταχωρήστε μια φωτογραφία εξωφύλλου"
+
+#: core/um-actions-profile.php:315
+msgid "Upload photo"
+msgstr "Ανεβάστε φωτογραφία"
+
+#: core/um-actions-profile.php:324 core/um-fields.php:1246
+#: core/um-fields.php:1279
+msgid "Change photo"
+msgstr "Άλλαξε φωτογραφία"
+
+#: core/um-actions-profile.php:325
+msgid "Remove photo"
+msgstr "Κατάργηση φωτογραφίας"
+
+#: core/um-actions-profile.php:375
+msgid "Tell us a bit about yourself..."
+msgstr "Πείτε μας λίγα λόγια για τον εαυτό σας ..."
+
+#: core/um-actions-profile.php:386
+#, php-format
+msgid "This user account status is %s"
+msgstr "Αυτή η κατάσταση του λογαριασμού χρήστη είναι %s"
+
+#: core/um-actions-profile.php:461
+msgid "Edit Profile"
+msgstr "Επεξεργασία Προφίλ"
+
+#: core/um-actions-profile.php:462
+msgid "My Account"
+msgstr "Ο Λογαριασμός Μου"
+
+#: core/um-actions-profile.php:463 core/um-actions-user.php:62
+msgid "Logout"
+msgstr "Αποσυνδέομαι"
+
+#: core/um-actions-user.php:61
+msgid "Your account"
+msgstr "του λογαριασμού σας"
+
+#: core/um-builtin.php:461 core/um-builtin.php:865
+msgid "Everyone"
+msgstr "Όλοι"
+
+#: core/um-builtin.php:461 core/um-user.php:696
+msgid "Only me"
+msgstr "μονο εγω"
+
+#: core/um-builtin.php:466 core/um-builtin.php:469 um-config.php:36
+#: um-config.php:51
+msgid "Username"
+msgstr "Όνομα Χρήστη"
+
+#: core/um-builtin.php:479 core/um-builtin.php:482 core/um-builtin.php:844
+msgid "Username or E-mail"
+msgstr "Όνομα Χρήστη ή E-mail"
+
+#: core/um-builtin.php:490 core/um-builtin.php:493 core/um-builtin.php:902
+#: core/um-builtin.php:905
+msgid "Password"
+msgstr "Κωδικός"
+
+#: core/um-builtin.php:504 core/um-builtin.php:507
+msgid "First Name"
+msgstr "Όνομα"
+
+#: core/um-builtin.php:514 core/um-builtin.php:517
+msgid "Last Name"
+msgstr "Επίθετο"
+
+#: core/um-builtin.php:524 core/um-builtin.php:527
+msgid "Registration Date"
+msgstr "Ημερομηνία Εγγραφής"
+
+#: core/um-builtin.php:535 core/um-builtin.php:538
+msgid "Display Name"
+msgstr "Όνομα Προβολής"
+
+#: core/um-builtin.php:545 core/um-builtin.php:548
+msgid "E-mail Address"
+msgstr "διεύθυνση ηλεκτρονικού ταχυδρομείου"
+
+#: core/um-builtin.php:556 core/um-builtin.php:559
+msgid "Biography"
+msgstr "Βιογραφία"
+
+#: core/um-builtin.php:569 core/um-builtin.php:572
+msgid "Birth Date"
+msgstr "Ημέρα Γέννησης"
+
+#: core/um-builtin.php:583 core/um-builtin.php:586
+msgid "Gender"
+msgstr "Γένος"
+
+#: core/um-builtin.php:590
+msgid "Male"
+msgstr "Αρσενικός"
+
+#: core/um-builtin.php:590
+msgid "Female"
+msgstr "Θήλυ"
+
+#: core/um-builtin.php:594 core/um-builtin.php:597
+msgid "Country"
+msgstr "Χώρα"
+
+#: core/um-builtin.php:598
+msgid "Choose a Country"
+msgstr "Επιλέξτε μια χώρα"
+
+#: core/um-builtin.php:606 core/um-builtin.php:609
+msgid "Facebook"
+msgstr "Facebook"
+
+#: core/um-builtin.php:624 core/um-builtin.php:627
+msgid "Twitter"
+msgstr "Twitter"
+
+#: core/um-builtin.php:642 core/um-builtin.php:645
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: core/um-builtin.php:660 core/um-builtin.php:663
+msgid "Google+"
+msgstr "Google+"
+
+#: core/um-builtin.php:678 core/um-builtin.php:681
+msgid "Instagram"
+msgstr "Instagram"
+
+#: core/um-builtin.php:696 core/um-builtin.php:699
+msgid "Skype ID"
+msgstr "Skype ID"
+
+#: core/um-builtin.php:711 core/um-builtin.php:714
+msgid "YouTube"
+msgstr "YouTube"
+
+#: core/um-builtin.php:729 core/um-builtin.php:732
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: core/um-builtin.php:747
+msgid "Roles (Dropdown)"
+msgstr "Ρόλοι (Αναπτυσσόμενο)"
+
+#: core/um-builtin.php:750 core/um-builtin.php:762
+msgid "Account Type"
+msgstr "Τύπος Λογαριασμού"
+
+#: core/um-builtin.php:759
+msgid "Roles (Radio)"
+msgstr "Ρόλοι (Radio)"
+
+#: core/um-builtin.php:770
+msgid "Languages"
+msgstr "Γλώσσες"
+
+#: core/um-builtin.php:773
+msgid "Languages Spoken"
+msgstr "Γλώσσες Που Μιλάς"
+
+#: core/um-builtin.php:774
+msgid "Select languages"
+msgstr "Επιλέξτε τις γλώσσες"
+
+#: core/um-builtin.php:782 core/um-builtin.php:785
+msgid "Phone Number"
+msgstr "Τηλεφωνικό Νούμερο"
+
+#: core/um-builtin.php:794 core/um-builtin.php:797
+msgid "Mobile Number"
+msgstr "Αριθμός Κινητού"
+
+#: core/um-builtin.php:808
+msgid "Profile Photo"
+msgstr "Φωτογραφία Προφίλ"
+
+#: core/um-builtin.php:811
+msgid "Change your profile photo"
+msgstr "Αλλάξτε το προφίλ σας φωτογραφία"
+
+#: core/um-builtin.php:812
+msgid "Upload your photo here"
+msgstr "Ανεβάστε τη φωτογραφία σας εδώ"
+
+#: core/um-builtin.php:822
+msgid "Cover Photo"
+msgstr "Φωτογραφία Εξωφύλλου"
+
+#: core/um-builtin.php:826
+msgid "Upload profile cover here"
+msgstr "Ανεβάστε εξώφυλλο προφίλ εδώ"
+
+#: core/um-builtin.php:837
+msgid "Password Reset"
+msgstr "Επαναφορά κωδικού"
+
+#: core/um-builtin.php:839
+msgid "To reset your password, please enter your email address or username below"
+msgstr "Για να επαναφέρετε τον κωδικό πρόσβασής σας, παρακαλώ εισάγετε τη διεύθυνση email ή το όνομα χρήστη σας παρακάτω"
+
+#: core/um-builtin.php:847
+msgid "Enter your username or email"
+msgstr "Εισάγετε το όνομα χρήστη ή το email σας"
+
+#: core/um-builtin.php:857 core/um-builtin.php:860
+msgid "Profile Privacy"
+msgstr "Ιδιωτικότητα προφίλ"
+
+#: core/um-builtin.php:861
+msgid "Who can see your public profile?"
+msgstr "Ποιος μπορεί να δει το δημόσιο προφίλ σας;"
+
+#: core/um-builtin.php:873 core/um-builtin.php:876
+msgid "Hide my profile from directory"
+msgstr "Απόκρυψη προφίλ μου από τον κατάλογο"
+
+#: core/um-builtin.php:877
+msgid "Here you can hide yourself from appearing in public directory"
+msgstr "Εδώ μπορείτε να κρύψετε το προφίλ σας από το δημόσιο κατάλογο"
+
+#: core/um-builtin.php:892
+msgid "If you confirm, everything related to your profile will be deleted permanently from the site"
+msgstr "Εάν επιβεβαιώσετε, τα πάντα που σχετίζονται με το προφίλ σας θα διαγραφεί οριστικά από τον χώρο"
+
+#: core/um-cron.php:15
+msgid "Once Weekly"
+msgstr "Μία φορά την εβδομάδα"
+
+#: core/um-datetime.php:26
+#, php-format
+msgid "%s year old"
+msgstr "%s ετών"
+
+#: core/um-datetime.php:28
+#, php-format
+msgid "%s years old"
+msgstr "%s ετών"
+
+#: core/um-datetime.php:30
+msgid "Less than 1 year old"
+msgstr "Λιγότερο από 1 χρόνου"
+
+#: core/um-fields.php:546
+msgid "Custom Field"
+msgstr "Προσαρμοσμένο πεδίο"
+
+#: core/um-fields.php:805 core/um-fields.php:826
+msgid "Upload"
+msgstr "Ανεβάστε"
+
+#: core/um-fields.php:989
+msgid "Current Password"
+msgstr "Τρέχων Κωδικός"
+
+#: core/um-fields.php:1018
+msgid "New Password"
+msgstr "Νέος Κωδικός"
+
+#: core/um-fields.php:1050
+#, php-format
+msgid "Confirm %s"
+msgstr "Επιβεβαίωση %s"
+
+#: core/um-fields.php:1229 core/um-fields.php:1309
+msgid "Upload Photo"
+msgstr "Ανεβάστε Φωτογραφία"
+
+#: core/um-fields.php:1279 core/um-fields.php:1364
+msgid "Processing..."
+msgstr "Επεξεργασία ..."
+
+#: core/um-fields.php:1325 core/um-fields.php:1364
+msgid "Change file"
+msgstr "Αλλαγή αρχείου"
+
+#: core/um-fields.php:1364
+msgid "Save"
+msgstr "Αποθηκεύσετε"
+
+#: core/um-fields.php:2045
+#, php-format
+msgid "Your profile is looking a little empty. Why not <a href=\"%s\">add</a> some information!"
+msgstr "Το προφίλ σας φαίνεται λίγο άδειο. Γιατί να μην <a href=\" %s \"> προσθέσετε </a> κάποιες πληροφορίες!"
+
+#: core/um-fields.php:2047
+msgid "This user has not added any information to their profile yet."
+msgstr "Αυτός ο χρήστης δεν έχει προσθέσει καμία πληροφορία στο προφίλ του ακόμα."
+
+#: core/um-files.php:315
+msgid "Your image is invalid or too large!"
+msgstr "Η εικόνα σας δεν είναι έγκυρη ή είναι πολύ μεγάλη!"
+
+#: core/um-files.php:321 core/um-files.php:323
+#, php-format
+msgid "Your photo is too small. It must be at least %spx wide."
+msgstr "Η φωτογραφία σας είναι πολύ μικρή. Θα πρέπει να είναι τουλάχιστον %s px μεγάλη."
+
+#: core/um-filters-addons.php:16
+msgid "Activated"
+msgstr "Ενεργός"
+
+#: core/um-filters-addons.php:17
+msgid "Deactivated"
+msgstr "Απενεργοποιημένος"
+
+#: core/um-filters-addons.php:33
+msgid "Tools"
+msgstr "Εργαλεία"
+
+#: core/um-filters-addons.php:57
+msgid "Licenses"
+msgstr "Άδειες"
+
+#: core/um-filters-fields.php:11
+msgid "Required"
+msgstr "Απαραίτητο"
+
+#: core/um-filters-fields.php:21
+msgid "Age"
+msgstr "Ηλικία"
+
+#: core/um-filters-fields.php:31
+#, php-format
+msgid "Joined %s"
+msgstr "Ένταξη %s"
+
+#: core/um-filters-fields.php:93
+msgid "This file has been removed."
+msgstr "Αυτό το αρχείο έχει αφαιρεθεί."
+
+#: core/um-filters-fields.php:115
+msgid "Untitled photo"
+msgstr "Untitled φωτογραφία"
+
+#: core/um-filters-profile.php:10
+msgid "About"
+msgstr "Σχετικά με"
+
+#: core/um-filters-user.php:11 core/um-filters-user.php:33
+#: core/um-filters-user.php:38
+msgid "Approve Membership"
+msgstr "Έγκριση μελών"
+
+#: core/um-filters-user.php:12 core/um-filters-user.php:34
+msgid "Reject Membership"
+msgstr "Απόρριψη Μέλων"
+
+#: core/um-filters-user.php:13 core/um-filters-user.php:42
+msgid "Put as Pending Review"
+msgstr "Ορίστε ως Εκκρεμείς έλεγχος"
+
+#: core/um-filters-user.php:14 core/um-filters-user.php:46
+msgid "Resend Activation E-mail"
+msgstr "Επανάληψη αποστολής e-mail ενεργοποίησης"
+
+#: core/um-filters-user.php:15
+msgid "Deactivate"
+msgstr "Απενεργοποίηση"
+
+#: core/um-filters-user.php:16
+msgid "Reactivate"
+msgstr "Επανενεργοποίηση"
+
+#: core/um-filters-user.php:17
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: core/um-filters-user.php:50
+msgid "Deactivate this account"
+msgstr "Απενεργοποίηση αυτού του λογαριασμού"
+
+#: core/um-filters-user.php:54
+msgid "Reactivate this account"
+msgstr "Επανενεργοποίηση αυτού του λογαριασμού"
+
+#: core/um-filters-user.php:58
+msgid "Delete this user"
+msgstr "Διαγραφή αυτού του χρήστη"
+
+#: core/um-filters-user.php:64
+msgid "Login as this user"
+msgstr "Σύνδεση ως αυτόν τον χρήστη"
+
+#: core/um-navmenu-walker-edit.php:18
+msgid "Display Mode"
+msgstr "Τρόπος Εμφάνισης"
+
+#: core/um-navmenu-walker-edit.php:19
+msgid "By Role"
+msgstr "Ανά ρόλο"
+
+#: core/um-navmenu-walker-edit.php:78
+msgid "Who can see this menu link?"
+msgstr "Ποιος μπορεί να δει αυτό το σύνδεσμο του μενού;"
+
+#: core/um-navmenu-walker-edit.php:98
+msgid "Select the member roles that can see this link"
+msgstr "Επιλέξτε τους ρόλους των μελών που μπορεί να δει αυτό το σύνδεσμο"
+
+#: core/um-password.php:29
+msgid "This is not a valid hash, or it has expired."
+msgstr "Αυτό δεν είναι ένα έγκυρο hash, ή έχει λήξει."
+
+#: core/um-setup.php:135 core/um-setup.php:156
+msgid "Register"
+msgstr "Εγγραφή"
+
+#: core/um-setup.php:140 core/um-setup.php:149
+msgid "Login"
+msgstr "Σύνδεση"
+
+#: core/um-short-functions.php:135
+msgid "date submitted"
+msgstr "ημερομηνία που υποβλήθηκε"
+
+#: core/um-short-functions.php:140
+msgid "(empty)"
+msgstr "(Άδειο)"
+
+#: core/um-shortcodes.php:234
+msgid "Default Template"
+msgstr "Προεπιλεγμένο πρότυπο"
+
+#: core/um-taxonomies.php:19
+msgid "Form"
+msgstr "Φόρμα"
+
+#: core/um-taxonomies.php:20 core/um-taxonomies.php:38
+#: core/um-taxonomies.php:58
+msgid "Add New"
+msgstr "Προσθήκη νέου"
+
+#: core/um-taxonomies.php:21
+msgid "Add New Form"
+msgstr "Προσθήκη Νέας Φόρμας"
+
+#: core/um-taxonomies.php:22
+msgid "Edit Form"
+msgstr "Επεξεργασία Φόρμας"
+
+#: core/um-taxonomies.php:23
+msgid "You did not create any forms yet"
+msgstr "Δεν έχετε δημιουργήσει καμία φόρμα ακόμη"
+
+#: core/um-taxonomies.php:24 core/um-taxonomies.php:42
+#: core/um-taxonomies.php:62
+msgid "Nothing found in Trash"
+msgstr "Τίποτα δεν βρέθηκε σε κάδο απορριμμάτων"
+
+#: core/um-taxonomies.php:25
+msgid "Search Forms"
+msgstr "Φόρμες Αναζήτησης"
+
+#: core/um-taxonomies.php:37
+msgid "User Role"
+msgstr "Ρόλος χρήστη"
+
+#: core/um-taxonomies.php:39
+msgid "Add New User Role"
+msgstr "Προσθήκη νέου Ρόλου χρήστη"
+
+#: core/um-taxonomies.php:40
+msgid "Edit User Role"
+msgstr "Επεξεργασία Ρόλου χρήστη"
+
+#: core/um-taxonomies.php:41
+msgid "You did not create any user roles yet"
+msgstr "Δεν έχετε δημιουργήσει κανένα ρόλο χρήστη ακόμη"
+
+#: core/um-taxonomies.php:43
+msgid "Search User Roles"
+msgstr "Αναζήτηση ρόλων χρηστών"
+
+#: core/um-taxonomies.php:57
+msgid "Member Directory"
+msgstr "Κατάλογος μελών"
+
+#: core/um-taxonomies.php:59
+msgid "Add New Member Directory"
+msgstr "Προσθήκη νέου καταλόγου μελών"
+
+#: core/um-taxonomies.php:60
+msgid "Edit Member Directory"
+msgstr "Επεξεργασία καταλόγου μελών"
+
+#: core/um-taxonomies.php:61
+msgid "You did not create any member directories yet"
+msgstr "Δεν έχετε δημιουργήσει κανένα κατάλογο μελών ακόμα"
+
+#: core/um-taxonomies.php:63
+msgid "Search Member Directories"
+msgstr "Αναζήτηση καταλόγων μελών"
+
+#: core/um-tracking.php:147
+#, php-format
+msgid "Allow Ultimate Member to track plugin usage? Opt-in to tracking and our newsletter and we will immediately e-mail you a 20% discount which you can use on any of our extensions. No sensitive data is tracked."
+msgstr "Επιτρέψτε Ultimate κράτη να παρακολουθείτε τη χρήση plugin; Opt-in για την παρακολούθηση και το ενημερωτικό δελτίο μας και εμείς θα e-mail σας αμέσως μια έκπτωση 20%, που μπορείτε να χρησιμοποιήσετε για οποιαδήποτε από τις επεκτάσεις μας. Δεν ευαίσθητων δεδομένων παρακολουθούνται."
+
+#: core/um-tracking.php:151
+msgid "Allow tracking"
+msgstr "Να επιτρέπεται η παρακολούθηση"
+
+#: core/um-tracking.php:152
+msgid "Do not allow tracking"
+msgstr "Να μην επιτρέπεται η παρακολούθηση"
+
+#: core/um-user-posts.php:67
+msgid "Posts"
+msgstr "Δημοσιεύσεις"
+
+#: core/um-user-posts.php:72
+msgid "Comments"
+msgstr "Σχόλια"
+
+#: core/um-user.php:197 core/um-user.php:202
+msgid "This is not allowed for security reasons."
+msgstr "Αυτό δεν επιτρέπεται για λόγους ασφαλείας."
+
+#: index.php:49
+msgid "Docs"
+msgstr "Έγγραφα"
+
+#: index.php:50
+msgid "Support"
+msgstr "Υποστήριξη"
+
+#: index.php:55
+msgid "Remove this plugin"
+msgstr "Αφαιρέστε αυτό το plugin"
+
+#: index.php:55
+msgid "Uninstall"
+msgstr "Απεγκατάσταση"
+
+#: templates/password-reset.php:21
+msgid "We have sent you a password reset link to your e-mail. Please check your inbox."
+msgstr "Σας έχουμε αποστείλει ένα σύνδεσμο επαναφοράς κωδικού πρόσβασης στο e-mail σας. Παρακαλούμε ελέγξτε τα εισερχόμενά σας."
+
+#: templates/profile/comments-single.php:6
+#, php-format
+msgid "On <a href=\"%1$s\">%2$s</a>"
+msgstr "Στις <a href=\" %1$s \"> %2$s </a>"
+
+#: templates/profile/comments-single.php:15 templates/profile/comments.php:14
+msgid "load more comments"
+msgstr "φορτώσει περισσότερων σχόλια"
+
+#: templates/profile/comments.php:23
+msgid "You have not made any comments."
+msgstr "Δεν έχετε κάνει κάποια σχόλια."
+
+#: templates/profile/comments.php:23
+msgid "This user has not made any comments."
+msgstr "Αυτός ο χρήστης δεν έχει κάνει κανένα σχόλιο."
+
+#: templates/profile/posts-single.php:16
+#, php-format
+msgid "%s ago"
+msgstr "%s πριν"
+
+#: templates/profile/posts-single.php:18
+msgid "no comments"
+msgstr "χωρίς σχόλια"
+
+#: templates/profile/posts-single.php:18
+msgid "1 comment"
+msgstr "1 σχόλιο"
+
+#: templates/profile/posts-single.php:18
+#, php-format
+msgid "% comments"
+msgstr "% Σχόλια"
+
+#: templates/profile/posts-single.php:27 templates/profile/posts.php:14
+msgid "load more posts"
+msgstr "φορτώστε περισσότερες αναρτήσεις"
+
+#: templates/profile/posts.php:23
+msgid "You have not created any posts."
+msgstr "Δεν έχετε δημιουργήσει κάποιες αναρτήσεις."
+
+#: templates/profile/posts.php:23
+msgid "This user has not created any posts."
+msgstr "Αυτός ο χρήστης δεν έχει δημιουργήσει αναρτήσεις."
+
+#: um-config.php:20
+msgid "Default New User Role"
+msgstr "Προεπιλεγμένος ρόλος νέου χρήστη"
+
+#: um-config.php:21
+msgid "Select the default role that will be assigned to user after registration If you did not specify custom role settings per form."
+msgstr "Επιλέξτε το προεπιλεγμένο ρόλο που θα εκχωρηθεί στο χρήστη μετά από την εγγραφή Εάν δεν ορίσετε προσαρμοσμένες ρυθμίσεις ρόλου ανά φόρμα."
+
+#: um-config.php:24
+msgid "Choose user role..."
+msgstr "Επιλέξτε το ρόλο του χρήστη ..."
+
+#: um-config.php:31
+msgid "Profile Permalink Base"
+msgstr "Βάση Permalink Προφίλ"
+
+#: um-config.php:32
+msgid "Here you can control the permalink structure of the user profile URL globally"
+msgstr "Εδώ μπορείτε να ελέγξετε τη δομή permalink του URL του προφίλ των χρηστών παντού"
+
+#: um-config.php:37
+msgid "First and Last Name"
+msgstr "Όνομα και Επώνυμο"
+
+#: um-config.php:38
+msgid "User ID"
+msgstr "ταυτότητα χρήστη"
+
+#: um-config.php:40 um-config.php:60
+msgid "Select..."
+msgstr "Επιλέξτε ..."
+
+#: um-config.php:47
+msgid "User Display Name"
+msgstr "Όνομα Χρήστη Οθόνη"
+
+#: um-config.php:48
+msgid "This is the name that will be displayed for users on the front end of your site. Default setting uses first/last name as display name if it exists"
+msgstr "Αυτό είναι το όνομα που θα εμφανίζεται στους χρήστες στο frontend του site σας. Η προεπιλεγμένη ρύθμιση χρησιμοποιεί το πρώτο / τελευταίο όνομα για προβολή, αν υπάρχει"
+
+#: um-config.php:52
+msgid "First name & last name"
+msgstr "Όνομα και Επίθετο"
+
+#: um-config.php:53
+msgid "Last name & first name"
+msgstr "Επώνυμο και Όνομα"
+
+#: um-config.php:54
+msgid "First name & first initial of last name"
+msgstr "Πρώτο όνομα και το αρχικό του επωνύμου"
+
+#: um-config.php:55
+msgid "First initial of first name & last name"
+msgstr "Πρώτα αρχικό του ονόματος & επώνυμο"
+
+#: um-config.php:56
+msgid "First name only"
+msgstr "Πρώτο όνομα μόνο"
+
+#: um-config.php:57
+msgid "Display name"
+msgstr "Το εμφανιζόμενο όνομα"
+
+#: um-config.php:58
+msgid "Custom field(s)"
+msgstr "Προσαρμοσμένο πεδίο(α)"
+
+#: um-config.php:66
+msgid "Display Name Custom Field(s)"
+msgstr "Εμφάνιση Ονόματος σε προσαρμοσμένο πεδίο(α)"
+
+#: um-config.php:67
+msgid "Specify the custom field meta key or custom fields seperated by comma that you want to use to display users name on the frontend of your site"
+msgstr "Καθορίστε τις προσαρμοσμένο πεδίο μετα κλειδί ή προσαρμοσμένα πεδία χωρίζονται με κόμμα που θέλετε να χρησιμοποιήσετε για να εμφανίσετε το όνομα χρήστες σχετικά με το frontend του site σας"
+
+#: um-config.php:74
+msgid "Automatically redirect author page to their profile?"
+msgstr "Αυτόματη ανακατεύθυνση από τη σελίδα συντάκτη στο προφίλ τους;"
+
+#: um-config.php:76
+msgid "If enabled, author pages will automatically redirect to the user's profile page"
+msgstr "Αν ενεργοποιηθεί, οι σελίδες των συνατκτών θα ανακατευθυνθούν αυτόματα στη σελίδα του προφίλ του χρήστη"
+
+#: um-config.php:84
+msgid "Enable Members Directory"
+msgstr "Ενεργοποίηση καταλόγου μελών"
+
+#: um-config.php:86
+msgid "Control whether to enable or disable member directories on this site"
+msgstr "Ελέγξτε εάν θέλετε να ενεργοποιήσετε ή να απενεργοποιήσετε καταλόγους μέλών σε αυτό το site"
+
+#: um-config.php:94
+msgid "Use Gravatars?"
+msgstr "Χρησιμοποιήστε Gravatars;"
+
+#: um-config.php:96
+msgid "Do you want to use gravatars instead of the default plugin profile photo (If the user did not upload a custom profile photo / avatar)"
+msgstr "Θέλετε να χρησιμοποιήσετε Gravatars αντί για το προεπιλεγμένο προφίλ φωτογραφία plugin (Εάν ο χρήστης δεν φορτώσετε ένα προσαρμοσμένο προφίλ φωτογραφία / άβαταρ)"
+
+#: um-config.php:104
+msgid "Require a strong password? (when user resets password only)"
+msgstr "Απαιτούν έναν ισχυρό κωδικό πρόσβασης; (Όταν ο χρήστης επαναφέρει τον κωδικό πρόσβασης μόνο)"
+
+#: um-config.php:106
+msgid "Enable or disable a strong password rules on password reset and change procedure"
+msgstr "Ενεργοποίηση ή απενεργοποίηση του ισχυρού κωδικού για επαναφορά του κωδικού πρόσβασης και αλλάγή διαδικασίας"
+
+#: um-config.php:107 um-config.php:131 um-config.php:141 um-config.php:151
+#: um-config.php:161 um-config.php:184 um-config.php:194 um-config.php:742
+#: um-config.php:775 um-config.php:809 um-config.php:1235 um-config.php:1323
+#: um-config.php:1348 um-config.php:1403 um-config.php:1413 um-config.php:1423
+#: um-config.php:1455 um-config.php:1465 um-config.php:1480 um-config.php:1494
+#: um-config.php:1517 um-config.php:1527 um-config.php:1605 um-config.php:1707
+#: um-config.php:1735 um-config.php:1745 um-config.php:1804 um-config.php:1814
+#: um-config.php:1824 um-config.php:1834 um-config.php:1861 um-config.php:1870
+msgid "On"
+msgstr "Ενεργό"
+
+#: um-config.php:108 um-config.php:132 um-config.php:142 um-config.php:152
+#: um-config.php:162 um-config.php:185 um-config.php:195 um-config.php:743
+#: um-config.php:776 um-config.php:810 um-config.php:1236 um-config.php:1324
+#: um-config.php:1349 um-config.php:1404 um-config.php:1414 um-config.php:1424
+#: um-config.php:1456 um-config.php:1466 um-config.php:1481 um-config.php:1495
+#: um-config.php:1518 um-config.php:1528 um-config.php:1606 um-config.php:1708
+#: um-config.php:1736 um-config.php:1746 um-config.php:1805 um-config.php:1815
+#: um-config.php:1825 um-config.php:1835 um-config.php:1862 um-config.php:1871
+msgid "Off"
+msgstr "Ανενεργό"
+
+#: um-config.php:128
+msgid "Password Account Tab"
+msgstr "Κωδικός Καρτέλας Λογαριασμού"
+
+#: um-config.php:138
+msgid "Privacy Account Tab"
+msgstr "Καρτέλα λογαριασμού Απορρήτου "
+
+#: um-config.php:140
+msgid "Enable/disable the Privacy account tab in account page"
+msgstr "Ενεργοποίηση / απενεργοποίηση του λογαριασμού στην καρτέλα Απόρρητου στη σελίδα του λογαριασμού"
+
+#: um-config.php:148
+msgid "Notifications Account Tab"
+msgstr "Ειδοποιήσεις Καρτέλας Λογαριασμού"
+
+#: um-config.php:150
+msgid "Enable/disable the Notifications account tab in account page"
+msgstr "Ενεργοποίηση / απενεργοποίηση Ειδοποιήσεων καρτέλας λογαριασμού στη σελίδα του λογαριασμού"
+
+#: um-config.php:158
+msgid "Delete Account Tab"
+msgstr "Διαγραφή καρτέλας λογαριασμού"
+
+#: um-config.php:160
+msgid "Enable/disable the Delete account tab in account page"
+msgstr "Ενεργοποίηση / απενεργοποίηση Ειδοποιήσεων καρτέλας λογαριασμού στη σελίδα του λογαριασμού"
+
+#: um-config.php:168
+msgid "Account Deletion Custom Text"
+msgstr "Διαγραφή λογαριασμού Προσαρμοσμένου κείμενο"
+
+#: um-config.php:169
+msgid "Are you sure you want to delete your account? This will erase all of your account data from the site. To delete your account enter your password below"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε το λογαριασμό σας; Αυτό θα διαγράψει όλα τα δεδομένα του λογαριασμού σας από το site. Για να διαγράψετε τον λογαριασμό σας εισάγετε τον κωδικό παρακάτω"
+
+#: um-config.php:170
+msgid "This is custom text that will be displayed to users before they delete their accounts from your site"
+msgstr "Αυτό είναι προσαρμοσμένο κείμενο που θα εμφανίζεται στους χρήστες πριν να διαγράψετε τους λογαριασμούς τους από το site σας"
+
+#: um-config.php:181
+msgid "Add a First & Last Name fields"
+msgstr "Προσθέστε πεδία ονόματος και επωνύμου"
+
+#: um-config.php:183
+msgid "Whether to enable these fields on the user account page by default or hide them."
+msgstr "Είτε για να μπορέσουν αυτά τα πεδία στη σελίδα του λογαριασμού χρήστη από προεπιλογή ή να τα αποκρύψετε."
+
+#: um-config.php:191
+msgid "Require a strong password?"
+msgstr "Να απαιτείται ισχυρός κωδικό πρόσβασης;"
+
+#: um-config.php:193
+msgid "Enable or disable a strong password rules on account page / change password tab"
+msgstr "Ενεργοποίηση ή απενεργοποίηση ισχυρών κανόνων για τον κωδικό πρόσβασης στη σελίδα του λογαριασμού / αλλαγή καρτέλας κωδικού πρόσβασης"
+
+#: um-config.php:209
+msgid "Access"
+msgstr "Πρόσβαση"
+
+#: um-config.php:215
+msgid "Panic Key"
+msgstr "Κλειδί πανικού"
+
+#: um-config.php:216
+msgid "Panic Key is a random generated key that allow you to access the WordPress backend always regardless of backend settings."
+msgstr "Το κλειδί πανικού είναι ένα τυχαίο κλειδί που δημιουργείται και σας επιτρέπει να αποκτήσετε πρόσβαση στο WordPress backend πάντα ανεξάρτητα από τις ρυθμίσεις του backend."
+
+#: um-config.php:225
+msgid "Global Site Access"
+msgstr "Οικουμενική Πρόσβαση στο δικτυακό τόπο"
+
+#: um-config.php:227
+msgid "Globally control the access of your site, you can have seperate restrict options per post/page by editing the desired item."
+msgstr "Συνολικά ελέγξτε την πρόσβαση του site σας, μπορείτε να έχετε ξεχωριστους περριορισμούς στις επιλογές ανά θέση / σελίδα με την επεξεργασία του επιθυμητού στοιχείου."
+
+#: um-config.php:237
+msgid "Custom Redirect URL"
+msgstr "Προσαρμοσμένη διεύθυνση URL ανακατεύθυνσης"
+
+#: um-config.php:238
+msgid "A logged out user will be redirected to this url If he is not permitted to access the site"
+msgstr "Εάν ένας χρήστης αποσυνδεθεί θα μεταφερθεί σε αυτό το url αν δεν επιτρέπεται να έχει πρόσβαση στην ιστοσελίδα"
+
+#: um-config.php:246
+msgid "Exclude the following URLs"
+msgstr "Εξαίρεση των ακόλουθων διευθύνσεων URL"
+
+#: um-config.php:247
+msgid "Here you can exclude URLs beside the redirect URI to be accessible to everyone"
+msgstr "Εδώ μπορείτε να εξαιρέσετε διευθύνσεις URL ανακατεύθυνσης δίπλα στο URI να είναι προσιτές σε όλους"
+
+#: um-config.php:248
+msgid "Add New URL"
+msgstr "Προσθήκη νέου URL"
+
+#: um-config.php:255
+msgid "Exclude restricted pages from main loop"
+msgstr "Εξαίρεση περιορίσμένων σελίδων από το κύριο βρόχο"
+
+#: um-config.php:257
+msgid "Whether to exclude restricted pages from main loop"
+msgstr "Είτε για να αποκλείσετε περιορισμένες σελίδες από το κύριο βρόχο"
+
+#: um-config.php:265
+msgid "Exclude restricted pages from search loop"
+msgstr "Εξαίρεση περιορισμένων σελίδων από βρόχο αναζήτησης"
+
+#: um-config.php:267
+msgid "Whether to exclude restricted pages from search results"
+msgstr "Είτε για να αποκλείσει περιορίζεται σελίδες από τα αποτελέσματα αναζήτησης"
+
+#: um-config.php:275
+msgid "Exclude restricted pages from archive loop"
+msgstr "Εξαίρεση περιορίζεται σελίδες από το αρχείο βρόχο"
+
+#: um-config.php:277
+msgid "Whether to exclude restricted pages from archives"
+msgstr "Είτε για να αποκλείσει περιορισμένη σελίδες από τα αρχεία"
+
+#: um-config.php:285
+msgid "Allow Backend Login Screen for Guests"
+msgstr "Επιτρέψτε backend οθόνης εισόδου για επισκέπτες"
+
+#: um-config.php:287
+msgid "Control whether guests are able to access the WP-admin login screen or not"
+msgstr "Έλεγχος αν οι επισκέπτες μπορούν να έχουν πρόσβαση στην οθόνη σύνδεσης WP-διαχειριστής ή όχι"
+
+#: um-config.php:296
+msgid "Redirect to alternative login page"
+msgstr "Ανακατεύθυνση σε εναλλακτικές σελίδα σύνδεσης"
+
+#: um-config.php:297
+msgid "If you disable backend access to login screen, specify here where a user will be redirected"
+msgstr "Εάν απενεργοποιήσετε την πρόσβαση backend για να συνδεθείτε οθόνη, καθορίστε εδώ όπου θα μεταφερθείτε σε ένα χρήστη"
+
+#: um-config.php:309 um-config.php:341
+msgid "Custom URL"
+msgstr "Προσαρμοσμένη διεύθυνση URL"
+
+#: um-config.php:310 um-config.php:342
+msgid "Enter an alternate url here to redirect a user If they try to access the backend register screen"
+msgstr "Εισάγετε μια εναλλακτική διεύθυνση URL εδώ για να ανακατευθύνει ένα χρήστη Αν προσπαθήσετε να αποκτήσετε πρόσβαση στην οθόνη μητρώο backend"
+
+#: um-config.php:317
+msgid "Allow Backend Register Screen for Guests"
+msgstr "Επιτρέψτε οθόνη εγγραφής Backend για επισκέπτες"
+
+#: um-config.php:319
+msgid "Control whether guests are able to access the WP-admin register screen or not"
+msgstr "Έλεγχος αν οι επισκέπτες μπορούν να έχουν πρόσβαση ή όχι στην οθόνη εγγραφής WP-διαχειριστή"
+
+#: um-config.php:328
+msgid "Redirect to alternative register page"
+msgstr "Ανακατεύθυνση σε εναλλακτική σελίδα εγγραφής"
+
+#: um-config.php:329
+msgid "If you disable backend access to register screen, specify here where a user will be redirected"
+msgstr "Εάν απενεργοποιήσετε την πρόσβαση backend στην οθόνη εγγραφής, καθορίστε εδώ που θα μεταφερθεί ένας χρήτης"
+
+#: um-config.php:349
+msgid "Enable the Access Control widget for Admins only?"
+msgstr "Ενεργοποιήσατε το widget ελέγχου πρόσβασης μόνο για διαχειριστές;"
+
+#: um-config.php:358
+msgid "Whitelisted Backend IPs"
+msgstr "Whitelisted Backend IPs"
+
+#: um-config.php:359
+msgid "Always allow the specified IP addresses to access the backend login screen and WP-admin to avoid being locked from site backend."
+msgstr "Να επιτρέπεται πάντα στις καθορισμένες διευθύνσεις IP να αποκτούν πρόσβαση στην οθόνη σύνδεσης backend και WP-admin ώστε να αποφύγουν να κλειδωθούν από το site backend."
+
+#: um-config.php:365
+msgid "Blocked IP Addresses"
+msgstr "Αποκλεισμένες διευθύνσεις IP"
+
+#: um-config.php:366
+msgid "This will block the listed IPs from signing up or signing in to the site, you can use full IP numbers or target specific range with a wildcard"
+msgstr "Αυτό θα εμποδίσει την εγγραφή ή την είσοδο των εισηγμένων διευθύνσεων IP στο site, μπορείτε να χρησιμοποιήσετε τους πλήρεις αριθμούς IP ή να στοχεύσετε ε συγκεκριμένη περιοχή με ένα μπαλαντέρ"
+
+#: um-config.php:372
+msgid "Blocked Email Addresses"
+msgstr "Αποκλεισμένες διευθύνσεις e-mail"
+
+#: um-config.php:373
+msgid "This will block the specified e-mail addresses from being able to sign up or sign in to your site. To block an entire domain, use something like *@domain.com"
+msgstr "Αυτό θα εμποδίσει τις καθορισμένες e-mail διευθύνσεις από το να είναι σε θέση να εγγραφούν ή να συνδεθούν στο site σας. Για να αποκλείσετε έναν ολόκληρο domain, χρησιμοποιήστε κάτι σαν *@domain.com"
+
+#: um-config.php:379
+msgid "Blacklist Words"
+msgstr "Μαύρη λίστα λέξεων"
+
+#: um-config.php:380
+msgid "This option lets you specify blacklist of words to prevent anyone from signing up with such a word as their username"
+msgstr "Αυτή η επιλογή σας επιτρέπει να καθορίσετε μαύρη λίστα λέξεων για να μην μπορεί κανείς να εγγραφεί με μια τέτοια λέξη ως όνομα χρήστη"
+
+#: um-config.php:395
+msgid "Emails"
+msgstr "Emails"
+
+#: um-config.php:401
+msgid "Mail appears from"
+msgstr "Το mail προκύπτει από"
+
+#: um-config.php:402
+msgid "e.g. Site Name"
+msgstr "π.χ. όνομα ιστοσελίδας"
+
+#: um-config.php:409
+msgid "Mail appears from address"
+msgstr "Το mail φαίνεται από τη διεύθυνση"
+
+#: um-config.php:410 um-config.php:733
+msgid "e.g. admin@companyname.com"
+msgstr "π.χ. admin@companyname.com"
+
+#: um-config.php:417
+msgid "Use HTML for E-mails?"
+msgstr "Χρησιμοποιήστε HTML για τα E-mails;"
+
+#: um-config.php:419
+msgid "If you enable HTML for e-mails, you can customize the HTML e-mail templates found in <strong>templates/email</strong> folder."
+msgstr "Αν ενεργοποιήσετε HTML για τα e-mail, μπορείτε να προσαρμόσετε τα HTML e-mail πρότυπα που βρέθηκαν στο φάκελο <strong>templates/email</strong>."
+
+#: um-config.php:425 um-config.php:433 um-config.php:443
+msgid "Account Welcome Email"
+msgstr "Email καλωσορίσματος λογαριασμού"
+
+#: um-config.php:427
+msgid "Whether to send the user an email when his account is automatically approved"
+msgstr "Είτε να σταλεί στο χρήστη ένα e-mail, όταν ο λογαριασμός του έχει εγκριθεί αυτόματα"
+
+#: um-config.php:434 um-config.php:470 um-config.php:502 um-config.php:534
+#: um-config.php:570 um-config.php:601 um-config.php:632 um-config.php:663
+#: um-config.php:695 um-config.php:750 um-config.php:783 um-config.php:817
+msgid "Subject Line"
+msgstr "Γραμμή θέματος"
+
+#: um-config.php:437 um-config.php:473 um-config.php:505 um-config.php:537
+#: um-config.php:573 um-config.php:604 um-config.php:635 um-config.php:666
+#: um-config.php:698 um-config.php:753 um-config.php:786 um-config.php:820
+msgid "This is the subject line of the e-mail"
+msgstr "Αυτή είναι η γραμμή θέματος του e-mail"
+
+#: um-config.php:444 um-config.php:480 um-config.php:512 um-config.php:544
+#: um-config.php:580 um-config.php:611 um-config.php:642 um-config.php:673
+#: um-config.php:705 um-config.php:760 um-config.php:793 um-config.php:827
+msgid "Message Body"
+msgstr "Σώμα μηνύματος"
+
+#: um-config.php:461 um-config.php:469 um-config.php:479
+msgid "Account Activation Email"
+msgstr "E-mail ενεργοποίησης λογαριασμού"
+
+#: um-config.php:463
+msgid "Whether to send the user an email when his account needs e-mail activation"
+msgstr "Είτε να σταλεί στο χρήστη ένα e-mail, όταν ο λογαριασμός του χρειάζεται ενεργοποίηση e-mail"
+
+#: um-config.php:493 um-config.php:501 um-config.php:511
+msgid "Pending Review Email"
+msgstr "E-mail εκκρεμεί έλεγχος"
+
+#: um-config.php:495
+msgid "Whether to send the user an email when his account needs admin review"
+msgstr "Είτε για να στείλετε στο χρήστη ένα eme-mailail όταν ο λογαριασμός του διαχειριστή χρειάζεται επανεξέταση"
+
+#: um-config.php:525 um-config.php:533 um-config.php:543
+msgid "Account Approved Email"
+msgstr "E-mail έγκρισης λογαριασμού"
+
+#: um-config.php:527
+msgid "Whether to send the user an email when his account is approved"
+msgstr "Είτε για να στείλετε στο χρήστη ένα e-mail, όταν ο λογαριασμός του έχει εγκριθεί"
+
+#: um-config.php:561 um-config.php:569 um-config.php:579
+msgid "Account Rejected Email"
+msgstr "E-mail απόρριψης λογαριασμού"
+
+#: um-config.php:563
+msgid "Whether to send the user an email when his account is rejected"
+msgstr "Είτε για να στείλετε στο χρήστη ένα e-mailόταν ο λογαριασμός του απορρίπτεται"
+
+#: um-config.php:592 um-config.php:600 um-config.php:610
+msgid "Account Deactivated Email"
+msgstr "E-mail απενεργοποίησης λογαριασμού"
+
+#: um-config.php:594
+msgid "Whether to send the user an email when his account is deactivated"
+msgstr "Είτε για να στείλετε στο χρήστη ένα e-mail, όταν ο λογαριασμός του έχει απενεργοποιηθεί"
+
+#: um-config.php:623 um-config.php:631 um-config.php:641
+msgid "Account Deleted Email"
+msgstr "Email διαγραφής λογαριασμού"
+
+#: um-config.php:625
+msgid "Whether to send the user an email when his account is deleted"
+msgstr "Είτε για να στείλετε στο χρήστη ένα e-mail όταν ο λογαριασμός του διαγράφεται"
+
+#: um-config.php:654 um-config.php:662 um-config.php:672
+msgid "Password Reset Email"
+msgstr "E-mail επαναφοράς κωδικού πρόσβασης"
+
+#: um-config.php:656 um-config.php:688
+msgid "Whether to send the user an email when he request to reset password (Recommended, please keep on)"
+msgstr "Είτε για να στείλετε στο χρήστη ένα email όταν αυτός ζητήσει να επαναφέρετε τον κωδικό πρόσβασης (Συνιστάται, παρακαλώ συνεχίστε)"
+
+#: um-config.php:686 um-config.php:694 um-config.php:704
+msgid "Password Changed Email"
+msgstr "E-mail αλλαγής κωδικόυ πρόσβασης"
+
+#: um-config.php:731
+msgid "Admin E-mail Address"
+msgstr "Διεύθυνση E-mail διαχειριστή"
+
+#: um-config.php:739 um-config.php:749 um-config.php:759
+msgid "New User Notification"
+msgstr "Ειδοποίηση νέου χρήστη"
+
+#: um-config.php:741
+msgid "Whether to receive notification when a new user account is approved"
+msgstr "Είτε για να λαμβάνετε ειδοποίηση όταν εγκρίνεται ένας νέος λογαριασμός χρήστη"
+
+#: um-config.php:766 um-config.php:800 um-config.php:830
+msgid "This is the content of the e-mail"
+msgstr "Αυτό είναι το περιεχόμενο του e-mail"
+
+#: um-config.php:772 um-config.php:782 um-config.php:792
+msgid "Account Needs Review Notification"
+msgstr "Ειδοποίηση ότι ο λογαριασμός χρειάζεται επανεξέταση"
+
+#: um-config.php:774
+msgid "Whether to receive notification when an account needs admin review"
+msgstr "Είτε για να λαμβάνετε ειδοποίηση όταν ένας λογαριασμός χρειάζεται έλεγχο από τον διαχειριστή"
+
+#: um-config.php:806 um-config.php:816 um-config.php:826
+msgid "Account Deletion Notification"
+msgstr "Ειδοποίηση διαγραφής λογαριασμού"
+
+#: um-config.php:808
+msgid "Whether to receive notification when an account is deleted"
+msgstr "Είτε για να λαμβάνετε ειδοποίηση όταν ένας λογαριασμός διαγράφεται"
+
+#: um-config.php:844
+msgid "Uploads"
+msgstr "Ανέβασμα"
+
+#: um-config.php:850
+msgid "Profile Photo Maximum File Size"
+msgstr "Μέγιστο μέγεθος αρχείου φωτογραφίας προφίλ "
+
+#: um-config.php:851
+msgid "Sets a maximum size for the uploaded photo"
+msgstr "Ορίζει το μέγιστο μέγεθος για τη φωτογραφία που ανέβηκε"
+
+#: um-config.php:858
+msgid "Cover Photo Maximum File Size"
+msgstr "Μέγιστο μέγεθος αρχείου εξωφύλλου φωτογραφίας"
+
+#: um-config.php:859
+msgid "Sets a maximum size for the uploaded cover"
+msgstr "Ορίζει το μέγιστο μέγεθος για το εξώφυλλο που ανέβηκε"
+
+#: um-config.php:866
+msgid "Profile Photo Thumbnail Sizes"
+msgstr "Μέγεθος μικρογραφίας φωτογραφίας προφίλ"
+
+#: um-config.php:867
+msgid "Here you can define which thumbnail sizes will be created for each profile photo upload."
+msgstr "Εδώ μπορείτε να καθορίσετε ποια μεγέθη μικρογραφίας θα δημιουργηθούν για κάθε φωτογραφία προφίλ που ανεβαίνει."
+
+#: um-config.php:870 um-config.php:880
+msgid "Add New Size"
+msgstr "Προσθήκη νέου μέγεθος"
+
+#: um-config.php:876
+msgid "Cover Photo Thumbnail Sizes"
+msgstr "Μεγέθη μικρογραφίας φωτογραφίας εξωφύλλου"
+
+#: um-config.php:877
+msgid "Here you can define which thumbnail sizes will be created for each cover photo upload."
+msgstr "Εδώ μπορείτε να καθορίσετε ποια μεγέθη μικρογραφίας θα δημιουργηθούν για κάθε εξώφυλλο φωτογραφίας που ανεβαίνει."
+
+#: um-config.php:886
+msgid "Image Quality"
+msgstr "Ποιότητα εικόνας"
+
+#: um-config.php:887
+msgid "Quality is used to determine quality of image uploads, and ranges from 0 (worst quality, smaller file) to 100 (best quality, biggest file). The default range is 60."
+msgstr "Η ποιότητα χρησιμοποιείται για τον προσδιορισμό της ποιότητας των ανεβασμένων εικόνων και κυμαίνεται από 0 (χειρότερη ποιότητα, μικρότερο αρχείο) έως 100 (καλύτερη ποιότητα, μεγαλύτερο αρχείο). Το προεπιλεγμένο εύρος είναι 60."
+
+#: um-config.php:895
+msgid "Image Upload Maximum Width"
+msgstr "Μέγιστο πλάτος εικόνας προς ανέβασμα"
+
+#: um-config.php:896
+msgid "Any image upload above this width will be resized to this limit automatically."
+msgstr "Κάθε ανέβασμα εικόνας πάνω από αυτό το εύρος θα προσαρμόσει το μέγεθος αυτόματα σε αυτό το όριο."
+
+#: um-config.php:904
+msgid "Cover Photo Minimum Width"
+msgstr "Μέγιστο πλάτος εξωφύλλου εικόνας"
+
+#: um-config.php:905
+msgid "This will be the minimum width for cover photo uploads"
+msgstr "Αυτό θα είναι το ελάχιστο πλάτος για το εξώφυλλο φωτογραφίας που ανεβαίνει"
+
+#: um-config.php:921
+msgid "SEO"
+msgstr "SEO"
+
+#: um-config.php:927
+msgid "User Profile Title"
+msgstr "Τίτλος προφίλ χρήστη"
+
+#: um-config.php:929
+msgid "This is the title that is displayed on a specific user profile"
+msgstr "Αυτός είναι ο τίτλος που εμφανίζεται σε ένα συγκεκριμένο προφίλ χρήστη"
+
+#: um-config.php:936
+msgid "User Profile Dynamic Meta Description"
+msgstr "Δυναμική meta περιγραφή προφίλ χρήστη"
+
+#: um-config.php:937
+msgid "This will be used in the meta description that is available for search-engines."
+msgstr "Αυτό θα χρησιμοποιηθεί στη meta περιγραφή που είναι διαθέσιμη για τις μηχανές αναζήτησης."
+
+#: um-config.php:951
+msgid "Appearance"
+msgstr "Εμφάνιση"
+
+#: um-config.php:961
+msgid "General"
+msgstr "Γενικά"
+
+#: um-config.php:968
+msgid "Members Default Template"
+msgstr "Προεπιλεγμένο πρότυπο μελών "
+
+#: um-config.php:969
+msgid "This will be the default template to output member directory"
+msgstr "Αυτό θα είναι το προεπιλεγμένο πρότυπο στον κατάλογο εξόδου μελών"
+
+#: um-config.php:979
+msgid "General Active Color"
+msgstr "Γενικά ενεργό χρώμα"
+
+#: um-config.php:981
+msgid "Active color is used commonly with many plugin elements as highlighted color or active selection for example. This color demonstrates the primary active color of the plugin"
+msgstr "Ενεργό χρώμα χρησιμοποιείται συνήθως με πολλά στοιχεία plugin όπως χρώμα επισήμανσης ή ενεργή επιλογή, για παράδειγμα. Αυτό το χρώμα καταδεικνύει το κύριο ενεργό χρώμα του plugin"
+
+#: um-config.php:989
+msgid "General Secondary Color"
+msgstr "Γενικό δευτερεύων χρώμα"
+
+#: um-config.php:991
+msgid "Secondary color is used for hovers, or active state for some elements of the plugin"
+msgstr "Το δευτερεύων χρώμα χρησιμοποιείται για να υπάρχει κοντά ή σε ενεργό κατάσταση για ορισμένα στοιχεία του plugin"
+
+#: um-config.php:999
+msgid "Default Primary Button Color"
+msgstr "Προεπιλεγμένο  χρώμα πρωτεύοντος κουμπιού"
+
+#: um-config.php:1008
+msgid "Default Primary Button Hover Color"
+msgstr "Προεπιλεγμένο χρώμα πρωτεύοντος κουμπιού στο mouse over"
+
+#: um-config.php:1017
+msgid "Default Primary Button Text Color"
+msgstr "Προεπιλεγμένο χρώμα κειμένου πρωτεύοντος κουμπιού"
+
+#: um-config.php:1026
+msgid "Default Secondary Button Color"
+msgstr "Προεπιλεγμένο χρώμα δευτερεύοντος κουμπιού"
+
+#: um-config.php:1035
+msgid "Default Secondary Button Hover Color"
+msgstr "Προεπιλεγμένο χρώμα δευτερεύοντος κουμπιού στο mouse over"
+
+#: um-config.php:1044
+msgid "Default Secondary Button Text Color"
+msgstr "Προεπιλεγμένο χρώμα κειμένου δευτερεύοντος κουμπιού"
+
+#: um-config.php:1053
+msgid "Default Help Icon Color"
+msgstr "Προεπιλεγμένο χρώμα εικονιδίου βοήθειας"
+
+#: um-config.php:1065
+msgid "Form Inputs"
+msgstr "Πεδία εισαγωγής"
+
+#: um-config.php:1072
+msgid "Field Label Color"
+msgstr "Χρώμα πεδίου ετικέτας"
+
+#: um-config.php:1080
+msgid "Field Border"
+msgstr "Όρια πεδίου"
+
+#: um-config.php:1082
+msgid "The default border-style for input/fields in UM forms"
+msgstr "Προεπιλεγμένο στυλ ορίων για εισαγωγή/πεδία σε μορφές UM"
+
+#: um-config.php:1088
+msgid "Field Border on Focus"
+msgstr "Όρια πεδίου σε εστίαση"
+
+#: um-config.php:1090
+msgid "The default border style for fields on hover state"
+msgstr "Το προεπιλεγμένο στυλ ορίων για τα πεδία σε κατάσταση mouse over"
+
+#: um-config.php:1097
+msgid "Field Background Color"
+msgstr "Χρώμα φόντου πεδίου"
+
+#: um-config.php:1106
+msgid "Field Background Color on Focus"
+msgstr "Χρώμα φόντου πεδίου σε ετίαση"
+
+#: um-config.php:1115
+msgid "Field Text Color"
+msgstr "Χρώμα πεδίου κειμένου"
+
+#: um-config.php:1124
+msgid "Field Placeholder Color"
+msgstr "Χρώμα πεδίου δείγματος προεπιλογής"
+
+#: um-config.php:1133
+msgid "Field Font Icon Color"
+msgstr "Χρώμα πεδίου εικονιδίου γραμματοσειράς"
+
+#: um-config.php:1141
+msgid "Show an asterisk for required fields"
+msgstr "Εμφάνιη αστερίσκου για τα απαιτούμενα πεδία"
+
+#: um-config.php:1151
+msgid "Field Required Asterisk Color"
+msgstr "Χρώμα πεδίου απαιτούμενου αστερίκου"
+
+#: um-config.php:1164
+msgid "Profile"
+msgstr "Προφίλ"
+
+#: um-config.php:1171
+msgid "Profile Default Template"
+msgstr "Προεπιλεγμένο πρότυπο προφίλ"
+
+#: um-config.php:1172
+msgid "This will be the default template to output profile"
+msgstr "Αυτό θα είναι το προεπιλεγμένο πρότυπο για το προφίλ εξόδου"
+
+#: um-config.php:1180
+msgid "Profile Maximum Width"
+msgstr "Μέγιστο πλάτος προφίλ "
+
+#: um-config.php:1188
+msgid "Profile Area Maximum Width"
+msgstr "Μέγιστο πλάτος περιοχής προφίλ "
+
+#: um-config.php:1190
+msgid "The maximum width of the profile area inside profile (below profile header)"
+msgstr "Το μέγιστο πλάτος της περιοχής προφίλ μέσα στο προφίλ (κάτω από κεφαλίδα προφίλ)"
+
+#: um-config.php:1197
+msgid "Profile Shortcode Alignment"
+msgstr "Profile Shortcode Alignment"
+
+#: um-config.php:1201 um-config.php:1571 um-config.php:1673
+msgid "Centered"
+msgstr "Κεντραρισμένο"
+
+#: um-config.php:1202 um-config.php:1572 um-config.php:1674
+msgid "Left aligned"
+msgstr "Αριστερή στοίχιση"
+
+#: um-config.php:1203 um-config.php:1573 um-config.php:1675
+msgid "Right aligned"
+msgstr "Δεξιά στοίχιση"
+
+#: um-config.php:1211
+msgid "Profile Field Icons"
+msgstr "Εικόνες πεδίου προφίλ"
+
+#: um-config.php:1212
+msgid "This is applicable for edit mode only"
+msgstr "Αυτό ισχύει μόνο για λειτουργία επεξεργασίας"
+
+#: um-config.php:1215 um-config.php:1585 um-config.php:1687
+msgid "Show inside text field"
+msgstr "Εμφάνιση στο εσωτερικό του πεδίου κειμένου"
+
+#: um-config.php:1216 um-config.php:1586 um-config.php:1688
+msgid "Show with label"
+msgstr "Εμφάνιση με ετικέτα"
+
+#: um-config.php:1217 um-config.php:1587 um-config.php:1689
+msgid "Turn off"
+msgstr "Σβήσιμο"
+
+#: um-config.php:1224
+msgid "Profile Primary Button Text"
+msgstr "Κείμενο πρωτεύοντος κουμπιού προφίλ"
+
+#: um-config.php:1226
+msgid "The text that is used for updating profile button"
+msgstr "Το κείμενο που χρησιμοποιείται για την ενημέρωση του κουμπιού του προφίλ"
+
+#: um-config.php:1232
+msgid "Profile Secondary Button"
+msgstr "Δευτερεύων κουμπί προφίλ"
+
+#: um-config.php:1234 um-config.php:1604 um-config.php:1706
+msgid "Switch on/off the secondary button display in the form"
+msgstr "Ενεργοποίηση/απενεργοποίηση του δευτερεύοντος κουμπιού που εμφανίζεται στη φόρμα"
+
+#: um-config.php:1242
+msgid "Profile Secondary Button Text"
+msgstr "Κείμενο δευτερεύοντος κουμπιού προφίλ"
+
+#: um-config.php:1244
+msgid "The text that is used for cancelling update profile button"
+msgstr "Το κείμενο που χρησιμοποιείται για την ακύρωση της ενημερωμένης έκδοσης του κουμπιού του προφίλ"
+
+#: um-config.php:1252
+msgid "Profile Associated Role"
+msgstr "Ρόλος συσχετιζόμενου προφίλ"
+
+#: um-config.php:1253
+msgid "Normally, you can leave this to default as this restricts the profile per specified role only"
+msgstr "Κανονικά, μπορείτε να το αφήσετε στην προεπιλεγμένη μορφή καθώς αυτό περιορίζει το προφίλ ανά καθορίσμένο ρόλο μόνο"
+
+#: um-config.php:1262
+msgid "Profile Base Background Color"
+msgstr "Χρώμα φόντου βάσης προφίλ"
+
+#: um-config.php:1271
+msgid "Profile Header Background Color"
+msgstr "Χρώμα φόντου κεφλίδας προφίλ"
+
+#: um-config.php:1279
+msgid "Default Profile Photo"
+msgstr "Προεπιλεγμένη φωτογραφία προφίλ"
+
+#: um-config.php:1280
+msgid "You can change the default profile picture globally here. Please make sure that the photo is 300x300px."
+msgstr "Μπορείτε να αλλάξετε την προεπιλεγμένη εικόνα του προφίλ του σε παγκόσμιο επίπεδο εδώ. Παρακαλώ βεβαιωθείτε ότι η φωτογραφία είναι 300x300px."
+
+#: um-config.php:1291
+msgid "Default Cover Photo"
+msgstr "Προεπιλεγμένο εξώφυλλο φωτογραφίας"
+
+#: um-config.php:1292
+msgid "You can change the default cover photo globally here. Please make sure that the default cover is large enough and respects the ratio you are using for cover photos."
+msgstr "Μπορείτε να αλλάξετε το προεπιλεγμένο εξώφυλλο φωτογραφίας σε παγκόσμιο επίπεδο εδώ. Παρακαλώ βεβαιωθείτε ότι το προεπιλεγμένο εξώφυλλο είναι αρκετά μεγάλο και σέβεται την αναλογία που χρησιμοποιείτε για το εξώφυλλο φωτογραφιών."
+
+#: um-config.php:1300
+msgid "The global default of profile photo size. This can be overridden by individual form settings"
+msgstr "Το παγκόσμια προεπιλεγμένο μέγεθος της φωτογραφίας προφίλ. Αυτό μπορεί να παρακαμφθεί από τις επιμέρους ρυθμίσεις της φόρμας"
+
+#: um-config.php:1308
+msgid "Whether to have rounded profile images, rounded corners, or none for the profile photo"
+msgstr "Είτε να έχουν στρογγυλεμένες εικόνες προφίλ, στρογγυλεμένες γωνίες, ή καμία για τη φωτογραφία προφίλ"
+
+#: um-config.php:1320
+msgid "Profile Cover Photos"
+msgstr "Φωτογραφίες εξωφύλλου προφίλ"
+
+#: um-config.php:1322
+msgid "Switch on/off the profile cover photos"
+msgstr "Ενεργοποίηση/απενεργοποίηση φωτογραφιών εξωφύλλου προφίλ"
+
+#: um-config.php:1331
+msgid "Profile Cover Ratio"
+msgstr "Αναλογία εξωφύλλου προφίλ"
+
+#: um-config.php:1332
+msgid "Choose global ratio for cover photos of profiles"
+msgstr "Επιλέξτε παγκόσμιες αναλογίες για τις φωτογραφίες εξωφύλλου των προφίλ"
+
+#: um-config.php:1345
+msgid "Profile Header Meta Text Icon"
+msgstr "Εικονίδιο meta κειμένου κεφαλίδας προφίλ"
+
+#: um-config.php:1347
+msgid "Display field icons for related user meta fields in header or not"
+msgstr "εμφάνιση εικονιδίων πεδίου για συναφή πεδία meta χρήστη σε κεφαλίδα ή όχι"
+
+#: um-config.php:1356
+msgid "Profile Header Meta Text Color"
+msgstr "Χρώμα meta κειμένου κεφαλίδας προφίλ"
+
+#: um-config.php:1365
+msgid "Profile Header Link Color"
+msgstr "Χρώμα συνδέσμου κεφαλίδας προφίλ"
+
+#: um-config.php:1374
+msgid "Profile Header Link Hover"
+msgstr "Χρώμα συνδέσμου κεφαλίδας προφίλ στο mouse over"
+
+#: um-config.php:1383
+msgid "Profile Header Icon Link Color"
+msgstr "Χρώμα συνδέσμου εικονιδίου κεφαλίδας προφίλ"
+
+#: um-config.php:1392
+msgid "Profile Header Icon Link Hover"
+msgstr "Χρώμα συνδέσμου εικονιδίου κεφαλίδας προφίλ στο mouse over "
+
+#: um-config.php:1400
+msgid "Show display name in profile header"
+msgstr "Εμφάνιση εμφανιζόμενο όνομα στην κεφαλίδα προφίλ"
+
+#: um-config.php:1402
+msgid "Switch on/off the user name on profile header"
+msgstr "Ενεργοποίηση/απενεργοποίηση του ονόματος χρήστη σχετικά στην κεφαλίδα προφίλ"
+
+#: um-config.php:1410
+msgid "Show social links in profile header"
+msgstr "Εμφάνιση κοινωνικών συνδέσμων την κεφαλίδα προφίλ"
+
+#: um-config.php:1412
+msgid "Switch on/off the social links on profile header"
+msgstr "Ενεργοποίηση/απενεργοποίηση των κοινωνικών δεσμών στην κεφαλίδα προφίλ"
+
+#: um-config.php:1420
+msgid "Show user description in header"
+msgstr "Εμφάνιση περιγραφής χρήστη στην κεφαλίδα"
+
+#: um-config.php:1422
+msgid "Switch on/off the user description on profile header"
+msgstr "Ενεργοποίηση/απενεργοποίηση της περιγραφής του χρήστη σχετικά στην κεφαλίδα προφίλ"
+
+#: um-config.php:1430
+msgid "User description maximum chars"
+msgstr "Μέγιστο όριο χαρακτήρων περιγραφής χρήστη"
+
+#: um-config.php:1432
+msgid "Maximum number of characters to allow in user description field in header."
+msgstr "Μέγιστος αριθμός επιτρεπόμενων χαρακτήρων στο πεδίο περιγραφής χρήστη στην κεφαλίδα."
+
+#: um-config.php:1439
+msgid "Profile Header Menu Position"
+msgstr "Θέση menu κεφαλίδας προφίλ"
+
+#: um-config.php:1441
+msgid "For incompatible themes, please make the menu open from left instead of bottom by default."
+msgstr "Για μη συμβατά θέματα, παρακαλούμε να κάνετε το μενού να ανοίξει από αριστερά αντί για κάτω από προεπιλογή."
+
+#: um-config.php:1452
+msgid "Show a custom message if profile is empty"
+msgstr "Δείτε ένα προσαρμοσμένο μήνυμα εάν το προφίλ είναι άδειο"
+
+#: um-config.php:1454
+msgid "Switch on/off the custom message that appears when the profile is empty"
+msgstr "Ενεργοποίηση/απενεργοποίηση του προσαρμοσμένο μηνύματος που εμφανίζεται όταν το προφίλ είναι άδειο"
+
+#: um-config.php:1462
+msgid "Show the emoticon"
+msgstr "Εμφάνιση του emoticon"
+
+#: um-config.php:1464
+msgid "Switch on/off the emoticon (sad face) that appears above the message"
+msgstr "Ενεργοποίηση/απενεργοποίηση του emoticon (θλιμμένο πρόσωπο), που εμφανίζεται πάνω από το μήνυμα"
+
+#: um-config.php:1478
+msgid "Enable profile menu"
+msgstr "Ενεργοποίηση μενού προφίλ"
+
+#: um-config.php:1491
+#, php-format
+msgid "%s Tab"
+msgstr "%s Tab"
+
+#: um-config.php:1504
+msgid "Profile menu default tab"
+msgstr "Προεπιλεγμένη καρτέλα μενού προφίλ"
+
+#: um-config.php:1505
+msgid "This will be the default tab on user profile page"
+msgstr "Αυτή θα είναι η προεπιλεγμένη καρτέλα στη σελίδα του προφίλ των χρηστών"
+
+#: um-config.php:1514
+msgid "Enable menu icons in desktop view"
+msgstr "Ενεργοποίηση εικονιδίων του μενού στην προβολή της επιφάνειας εργασίας"
+
+#: um-config.php:1524
+msgid "Enable counts in menu"
+msgstr "Ενεργοποίηση υπάρχει στο μενού"
+
+#: um-config.php:1534
+msgid "Profile Menu"
+msgstr "Μενού προφίλ"
+
+#: um-config.php:1549
+msgid "Registration Default Template"
+msgstr "Προεπιλεγμένο πρότυπο εγγραφής"
+
+#: um-config.php:1550
+msgid "This will be the default template to output registration"
+msgstr "Αυτό θα είναι το προεπιλεγμένο πρότυπο για την εγγραφή"
+
+#: um-config.php:1558
+msgid "Registration Maximum Width"
+msgstr "Μέγιστο πλάτος εγγραφής"
+
+#: um-config.php:1560 um-config.php:1662
+msgid "The maximum width this shortcode can take from the page width"
+msgstr "Το μέγιστο πλάτος που μπορεί να πάρει αυτό το shortcode από το πλάτος της σελίδας"
+
+#: um-config.php:1567
+msgid "Registration Shortcode Alignment"
+msgstr "Στοίχιση shortcode εγγραφής"
+
+#: um-config.php:1581
+msgid "Registration Field Icons"
+msgstr "Εικονίδια πεδίου εγγραφής"
+
+#: um-config.php:1582
+msgid "This controls the display of field icons in the registration form"
+msgstr "Αυτό ελέγχει την εμφάνιση των εικονιδίων των πεδίων της φόρμας εγγραφής"
+
+#: um-config.php:1594
+msgid "Registration Primary Button Text"
+msgstr "Κείμενο πρωτεύοντος κουμπιού εγγραφής"
+
+#: um-config.php:1596 um-config.php:1698
+msgid "The text that is used for primary button text"
+msgstr "Το κείμενο που χρησιμοποιείται για το κείμενο πρωτεύοντος κουμπιού"
+
+#: um-config.php:1602
+msgid "Registration Secondary Button"
+msgstr "Δευτερεύων κουμπί εγγραφής"
+
+#: um-config.php:1612
+msgid "Registration Secondary Button Text"
+msgstr "Κείμενο δευτερεύοντος κουμπιού εγγραφής"
+
+#: um-config.php:1614 um-config.php:1716
+msgid "The text that is used for the secondary button text"
+msgstr "Το κείμενο που χρησιμοποιείται για το κείμενο δευτερεύοντος κουμπιού"
+
+#: um-config.php:1621
+msgid "Registration Secondary Button URL"
+msgstr "URL Δευτερεύοντος κουμπιού εγγραφής"
+
+#: um-config.php:1623 um-config.php:1725
+msgid "You can replace default link for this button by entering custom URL"
+msgstr "Μπορείτε να αντικαταστήσετε τον προεπιλεγμένο σύνδεσμο για αυτό το κουμπί εισάγοντας προσαρμοσμένη διεύθυνση URL"
+
+#: um-config.php:1631
+msgid "Registration Default Role"
+msgstr "Προεπιλεγμένος ρόλος εγγραφής"
+
+#: um-config.php:1632
+msgid "This will be the default role assigned to users registering thru registration form"
+msgstr "Αυτός θα είναι ο προεπιλεγμένος ρόλος που ανατίθεται στους χρήστες κατά την εγγραφή μέσω της φόρμας εγγραφής"
+
+#: um-config.php:1651
+msgid "Login Default Template"
+msgstr "Προεπιλεγμένο πρότυπο εισόδου"
+
+#: um-config.php:1652
+msgid "This will be the default template to output login"
+msgstr "Αυτό θα είναι το προεπιλεγμένο πρότυπο για την έξοδο της σύνδεσης"
+
+#: um-config.php:1660
+msgid "Login Maximum Width"
+msgstr "Μέγιστο πλάτος εισόδου"
+
+#: um-config.php:1669
+msgid "Login Shortcode Alignment"
+msgstr "Στοίχιση shortcode σύνδεσης"
+
+#: um-config.php:1683
+msgid "Login Field Icons"
+msgstr "Εικόνες πεδίου σύνδεσης"
+
+#: um-config.php:1684
+msgid "This controls the display of field icons in the login form"
+msgstr "Αυτή ελέγχει την εμφάνιση των εικονιδίων του πεδίου της φόρμας σύνδεσης"
+
+#: um-config.php:1696
+msgid "Login Primary Button Text"
+msgstr "Κείμενο πρωτεύοντος κουμπιού σύνδεσης "
+
+#: um-config.php:1704
+msgid "Login Secondary Button"
+msgstr "Δευτερεύον κουμπί σύνδεσης"
+
+#: um-config.php:1714
+msgid "Login Secondary Button Text"
+msgstr "Κείμενο δευτερεύοντος κουμπιού σύνδεσης "
+
+#: um-config.php:1723
+msgid "Login Secondary Button URL"
+msgstr "URL δευτερεύοντος κουμπιού σύνδεσης "
+
+#: um-config.php:1732
+msgid "Login Forgot Password Link"
+msgstr "Σύνδεσμος Ξεχάσατε τον κωδικό σύνδεσης"
+
+#: um-config.php:1734
+msgid "Switch on/off the forgot password link in login form"
+msgstr "Ενεργοποίηση/απενεργοποίηση του Ξεχάσατε τον κωδικό σύνδεσης στη φόρμα σύνδεσης"
+
+#: um-config.php:1742
+msgid "Show \"Remember Me\""
+msgstr "Εμφάνιση \"Να με θυμάσαι \""
+
+#: um-config.php:1744
+msgid "Allow users to choose If they want to stay signed in even after closing the browser. If you do not show this option, the default will be to not remember login session."
+msgstr "Επιτρέπει στους χρήστες να επιλέξουν αν θέλουν να μείνουν συνδεδεμένοι ακόμη και μετά το κλείσιμο του προγράμματος περιήγησης. Αν δεν φαίνεται αυτή η επιλογή, το προεπιλεγμένο θα είναι να μην θυμάται την περίοδο εισόδου."
+
+#: um-config.php:1764
+msgid "Any custom css rules that you specify here will be applied globally to the plugin."
+msgstr "Όλοι οι προσαρμοσμένοι κανόνες CSS που καθορίζετε εδώ θα εφαρμοστούν παγκόσμια στο plugin."
+
+#: um-config.php:1780
+msgid "Advanced"
+msgstr "Σύνθετη"
+
+#: um-config.php:1786
+msgid "Import & Export Settings"
+msgstr "Εισαγωγή και Εξαγωγή ρυθμίσεων"
+
+#: um-config.php:1793
+msgid "Do not allow registering these roles"
+msgstr "Να μην επιτρέπετε η εγγραφή σε αυτούς τους ρόλους"
+
+#: um-config.php:1795
+msgid "Comma seperate roles (role slugs) that can not be registered from frontend ever for security."
+msgstr "Διαχωρισμός ρόλων με κόμμα (τμήμα ονομασίας ρόλου), που δεν μπορούν να καταχωρηθούν από το frontend ποτέ για ασφάλεια."
+
+#: um-config.php:1801
+msgid "Enable Time Check Security"
+msgstr "Ενεργοποίηση ελέγχου ώρας ασφαλείας"
+
+#: um-config.php:1803
+msgid "Turn this option off if you have a conflict with other plugins causing a spam bot message to appear unexpectedly."
+msgstr "Ενεργοποιήστε αυτή την επιλογή αν έχετε μια αντίθεση με άλλα πρόσθετα που προκαλούν να εμφανίζεται απροσδόκητα ένα μήνυμα spam bot."
+
+#: um-config.php:1811
+msgid "Disable JS/CSS Compression"
+msgstr "Απενεργοποίηση JS/CSS συμπίεσης"
+
+#: um-config.php:1813
+msgid "Not recommended. This will load all plugin js and css files separately and may slow down your website. Use this setting for development or debugging purposes only."
+msgstr "Δεν συνιστάται. Αυτό θα φορτώσει όλα τα js και CSS αρχεία του plugin ξεχωριστά και μπορεί να επιβραδύνει την ιστοσελίδα σας. Χρησιμοποιήστε αυτή τη ρύθμιση μόνο για ανάπτυξη ή debugging."
+
+#: um-config.php:1821
+msgid "Disable Nav Menu Settings"
+msgstr "Απενεργοποίηση ρυθμίσεων μενού πλοήγησης"
+
+#: um-config.php:1823
+msgid "This can disable the settings that appear in nav menus to apply custom access settings to nav items."
+msgstr "Αυτό μπορεί να απενεργοποιήσει τις ρυθμίσεις που εμφανίζονται στο μενού πλοήγησης για να εφαρμόσουν τις προσαρμοσμένες ρυθμίσεις πρόσβασης σε αντικείμενα του μενού πλοήγησης."
+
+#: um-config.php:1831
+msgid "Never load plugin JS and CSS on homepage"
+msgstr "Να μη φορτώνεται ποτέ η JS και CSS του plugin στην αρχική σελίδα"
+
+#: um-config.php:1833
+msgid "This can disable loading plugin js and css files on home page."
+msgstr "Αυτό μπορεί να απενεργοποιήσει τη φόρτωση js plugin και CSS αρχείων στην αρχική σελίδα."
+
+#: um-config.php:1842
+msgid "Never load plugin JS and CSS on the following pages"
+msgstr "Να μη φορτώνει ποτέ JS και CSS του plugin στις επόμενες σελίδες"
+
+#: um-config.php:1843
+msgid "Enter a url or page slug (e.g /about/) to disable loading the plugin's css and js on that page."
+msgstr "Πληκτρολογήστε μια διεύθυνση URL ή το τμήμα αυτής (π.χ. / about /) για να απενεργοποιήσετε τη φόρτωση CSS και JS των plugin σε αυτή τη σελίδα."
+
+#: um-config.php:1844 um-config.php:1853
+msgid "Add New Page"
+msgstr "Προσθήκη νέας σελίδας"
+
+#: um-config.php:1851
+msgid "Only load plugin JS and CSS on the following pages"
+msgstr "Το plugin  να φορτώσει JS και CSS στις επόμενες σελίδες"
+
+#: um-config.php:1852
+msgid "Enter a url or page slug (e.g /about/) to enable loading the plugin's css and js on that page."
+msgstr "Πληκτρολογήστε μια διεύθυνση URL ή ένα τμήμα της σελίδας (π.χ. / about /) για να ενεργοποιήσετε τη φόρτωση CSS και JS των plugin σε αυτή τη σελίδα."
+
+#: um-config.php:1859
+msgid "Enable custom css tab?"
+msgstr "Ενεργοποίηση προσαρμοσμένης καρτέλας CSS;"
+
+#: um-config.php:1868
+msgid "Allow Tracking"
+msgstr "Επιτρέψτε Παρακολούθηση"
+
+#: um-init.php:34
+msgid "Multi Language Support"
+msgstr "Υποστήριξη πολλαπλών γλωσσών"
+
+#: um-init.php:35
+msgid "This add-on helps you offer multi language forms to your visitors based on the languages you want."
+msgstr "Αυτό το add-on σας βοηθά προσφέροντας πολλαπλές μορφές γλώσσας στους επισκέπτες σας με βάση τις γλώσσες που θέλετε."
+
+#: um-init.php:39
+msgid "BuddyPress Avatar Transfer"
+msgstr "Μεταφορά BuddyPress Avatar"
+
+#: um-init.php:40
+msgid "This add-on enables you to migrate your custom user photos from BuddyPress to use with Ultimate Member."
+msgstr "Αυτό το add-on σας επιτρέπει να μεταφερθούν οι φωτογραφίες του χρήστη από το BuddyPress για χρήση στο Ultimate Member."
+
+#~ msgid "outdatedBrowser_page_message"
+#~ msgstr "The site you are visiting can only be viewed using a modern browser. Please upgrade your browser to increase safety and your browsing experience. Choose one of the browsers above. If you don't care <a href=\"?forwardOutdatedBrowser=1\">click here</a>"
+
+#~ msgid "404_page_message"
+#~ msgstr "The Page you are looking for doesn't exist or an other error occurred. <a href=\"javascript:history.go(-1)\">Go back</a>, or head over to <a href=\"%s\">%s</a> to choose a new direction."
